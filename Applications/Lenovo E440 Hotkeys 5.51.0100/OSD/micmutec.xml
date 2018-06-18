@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<applications xmlns="http://schemas.microsoft.com/windows/cpltasks/v1" 
+              xmlns:sh="http://schemas.microsoft.com/windows/tasks/v1">
+  <application id="{A48CA1A4-C36B-44f2-8090-19E08DF4365E}">
+    <sh:task id="{74D659E2-648E-4d83-AD56-A08C644003F1}"> 
+      <sh:name>Microphone Mute Settings</sh:name>
+      <sh:keywords>Lenovo.MicMute;MicMute;microphone</sh:keywords>
+      <sh:command>%ProgramFiles%\Lenovo\Hotkey\micmutec.exe</sh:command>
+    </sh:task>
+    <category id="2">
+      <sh:task idref="{74D659E2-648E-4d83-AD56-A08C644003F1}"/>
+    </category>
+  </application>
+</applications>

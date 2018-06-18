@@ -1,0 +1,40 @@
+﻿Software License Terms
+
+These license terms are an agreement ("Agreement") between you and Alps Electric Co., Ltd. ("Company").  Please read them before using drivers ("Software") for GlidePoint, DualPoint, StickPointer etc. ("Pointing Device") of the Company.  By using the Software, you accept the terms in this Agreement.  If you do not accept them, you shall not use the Software. 
+
+1.Use of the Software
+You may install and use the Software on one personal computer which has the Company's Pointing Device.
+
+2.Ownership of Rights
+The Company reserves all rights to the Software including intellectual property rights.
+
+3.Copy
+You shall not copy all or part of the Software.  However, you may make one copy of the Software only for back up purpose.
+
+4.Modification and Change
+You shall not modify, change, reverse engineer, decompile, or disassemble all or part of the Software.  You shall not make third party do the same. 
+
+5.Third Party Use
+You shall not transfer, rent, lease, or provide to third party by other means all or part of the Software.
+
+6.Disclaimer of Warranty
+The Company shall not be liable for any damages (including but not limited to, direct, indirect, consequential, or special damages) arising from use of the Software.  For avoidance of doubt, the Company shall not be liable for any dispute related to the Software regarding intellectual property rights of any third party. 
+You shall use the Software under your own responsibility, and you shall be responsible for any damage to your computer system or loss of data arising from the use of the Software.
+
+7.DPInst
+You may use the software Driver Package Installer ("DPInst") provided by Microsoft Corporation ("Microsoft") free of charge only if you agree to the conditions below:
+(a) You shall use DPInst for the sole purpose of installing the Software.
+(b) You shall not modify, change, reverse engineer, decompile, or disassemble all or part of DPInst.
+(c) You shall not rent, lease or provide by any other means all or part of DPInst to any third party. 
+(d) You shall not copy DPInst.  (However, you may make one copy of DPInst for back up purpose.)
+(e) Microsoft reserves all rights to DPInst. 
+(f) You shall not use Microsoft's trademarks in your programs' names, or in a way that suggests your programs come from or are endorsed by Microsoft.
+(g) Microsoft will not provide any support services for DPInst.
+(h) DPInst is licensed "as-is", and Microsoft shall not be liable for any damages incurred to you arising from DPInst.  For avoidance of doubt, Microsoft shall not be liable for any dispute related to DPInst regarding intellectual property rights of any third party. 
+(i) You shall comply with all domestic and international export laws and regulations that apply to DPInst.
+(j) You may recover from Microsoft for damages up to US$5.00.
+
+8.Miscellaneous
+(1) The Company may change the specification and manuals for the Software in the future without notice. 
+(2) The governing law of this Agreement shall be the laws of Japan.  Any dispute, controversy or difference of opinion which may arise out of or in connection with this Agreement shall be settled by Tokyo District Court.
+(3) There are no written or verbal agreements, pre-printed or otherwise notified standard terms and conditions, warranties, representations or understandings affecting this Agreement, and this Agreement supersedes all previous written and verbal understandings and agreements between the parties. 

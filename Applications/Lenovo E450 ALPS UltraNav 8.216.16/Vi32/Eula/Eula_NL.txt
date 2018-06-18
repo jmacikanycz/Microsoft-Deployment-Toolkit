@@ -1,0 +1,41 @@
+﻿Licentiebepalingen voor de software
+
+Deze licentiebepalingen vormen een overeenkomst (de "Overeenkomst") tussen u en Alps Electric Co., Ltd. (de "Onderneming"). Lees de bepalingen zorgvuldig door voordat u gebruikmaakt van stuurprogramma's (de "Software") voor GlidePoint, DualPoint, StickPointer en andere apparaten (de "Aanwijsapparaten") van de Onderneming. Door de software in gebruik te nemen, verklaart u in te stemmen met de bepalingen in deze Overeenkomst. Als u niet instemt met de bepalingen, mag u de Software niet gebruiken.
+
+1. Gebruik van de Software
+U mag de Software installeren en gebruiken op één personal computer die is uitgerust met een Aanwijsapparaat van de Onderneming.
+
+2. Eigendom van rechten
+De Onderneming behoudt alle rechten op de Software, inclusief de intellectuele eigendomsrechten.
+
+3. Kopieën
+U mag de Software niet geheel of gedeeltelijk kopiëren. Het is wel toegestaan om, uitsluitend voor backup-doeleinden, één kopie van de Software te maken.
+
+4. Wijzigingen en aanpassingen
+Het is u niet toegestaan de Software geheel of gedeeltelijk te wijzigen, aan te passen, te decompileren of te disassembleren, dan wel reverse engineering op de Software toe te passen. Het is u ook niet toegestaan deze handelingen door derden te laten uitvoeren.
+
+5. Gebruik door derden
+Het is u niet toegestaan de Software geheel of gedeeltelijk over te dragen, te verhuren, te leasen of op een andere manier aan derden ter beschikking te stellen.
+
+6. Uitsluiting van aansprakelijkheid
+De Onderneming is niet aansprakelijk voor schade (daaronder mede begrepen directe, indirecte of bijzondere schade en gevolgschade) die voortvloeit uit het gebruik van de Software. De Onderneming is niet aansprakelijk voor eventuele geschillen over intellectuele eigendomsrechten van derden in verband met de Software.
+U gebruikt de Software voor eigen verantwoordelijkheid en u bent zelf aansprakelijk voor eventuele schade aan uw computersysteem en eventueel verlies van gegevens, voortvloeiend uit het gebruik van de Software.
+
+7. DPInst
+U kunt kosteloos gebruikmaken van Driver Package Installer ("DPInst"), een programma dat beschikbaar wordt gesteld door Microsoft Corporation ("Microsoft"), op voorwaarde dat u instemt met de onderstaande voorwaarden:
+(a) U mag DPInst uitsluitend gebruiken om de Software te installeren.
+(b) Het is u niet toegestaan DPInst geheel of gedeeltelijk te wijzigen, aan te passen, te decompileren of te disassembleren, dan wel reverse engineering op DPInst toe te passen.
+(c) Het is u niet toegestaan DPInst geheel of gedeeltelijk te verhuren, te leasen of op een andere manier aan derden ter beschikking te stellen.
+(d) U mag geen kopieën van DPInst maken. (Het is wel toegestaan om, uitsluitend voor backup-doeleinden, één kopie van DPInst te maken.)
+(e) Microsoft behoudt alle rechten met betrekking tot DPInst.
+(f) Het is u niet toegestaan de handelsmerken van Microsoft in de namen van uw programma's te gebruiken, dan wel deze handelsmerken zodanig te gebruiken dat wordt gesuggereerd dat uw programma's afkomstig zijn van of goedgekeurd zijn door Microsoft.
+(g) Microsoft biedt geen enkele vorm van ondersteuning voor DPInst.
+(h) DPInst wordt zonder garantie in licentie gegeven. Microsoft is niet aansprakelijk voor eventuele schade die u lijdt als gevolg van DPInst. Microsoft is niet aansprakelijk voor eventuele geschillen over intellectuele eigendomsrechten van derden in verband met DPInst.
+(i) U dient zich te houden aan alle nationale en internationale exportvoorschriften die van toepassing zijn op DPInst.
+(j) Het maximale schadebedrag dat door Microsoft kan worden vergoed, bedraagt US$ 5,00.
+
+8. Diversen
+(1) De Onderneming behoudt zich het recht voor om in de toekomst de specificaties en handleidingen van de Software zonder voorafgaande kennisgeving te wijzigen.
+(2) Op deze Overeenkomst is de Japanse wetgeving van toepassing. Alle geschillen, onenigheden of meningsverschillen die voortkomen uit of ontstaan in verband met deze Overeenkomst, worden beslecht door de Districtsrechtbank van Tokio.
+(3) Er bestaan geen schriftelijke of mondelinge overeenkomsten, standaardbepalingen of leveringsvoorwaarden in drukvorm of anderszins, garanties, representaties van feiten of interpretaties die van invloed zijn op deze Overeenkomst. Deze Overeenkomst komt in de plaats van alle eerdere schriftelijke of mondelinge afspraken en overeenkomsten tussen de partijen.
+

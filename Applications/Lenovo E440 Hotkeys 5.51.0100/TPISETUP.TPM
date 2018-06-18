@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<docQM format="0100">
+  <feature id="HOTKEY" isinstalled="no">
+    <name>On Screen Display</name>
+    <version></version>
+  </feature>
+</docQM>

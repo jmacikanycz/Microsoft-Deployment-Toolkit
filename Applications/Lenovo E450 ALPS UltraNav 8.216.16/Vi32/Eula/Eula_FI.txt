@@ -1,0 +1,40 @@
+﻿Ohjelmistolisenssin ehdot
+
+Nämä lisenssiehdot muodostavat käyttäjän ja Alps Electric Co., Ltd:n ("Yritys") välisen sopimuksen ("Sopimus").  Lue ne, ennen kuin käytät yrityksen osoitinlaitteiden, joita ovat esimerkiksi GlidePoint, DualPoint ja StickPointer ("Osoitinlaite"), ohjaimia ("Ohjelmisto").  Käyttämällä Ohjelmistoa hyväksyt tämän Sopimuksen ehdot.  Jos et hyväksy ehtoja, älä käytä Ohjelmistoa. 
+
+1. Ohjelmiston käyttö
+Käyttäjä voi asentaa Ohjelmiston yhteen henkilökohtaiseen tietokoneeseen, jossa on Yrityksen Osoitinlaite, ja käyttää sitä tällaisessa tietokoneessa.
+
+2. Oikeuksien omistus
+Yritys pidättää itsellään Ohjelmiston kaikki oikeudet, immateriaalioikeudet mukaan luettuina.
+
+3. Kopioiminen
+Käyttäjä ei saa kopioida Ohjelmistoa kokonaan eikä osittain.  Käyttäjä saa kuitenkin tehdä Ohjelmistosta vain yhden kopion varmuuskopiointia varten.
+
+4. Muokkaaminen ja muuttaminen
+Käyttäjä ei saa muokata eikä muuttaa Ohjelmistoa, purkaa ohjelmakoodia, palauttaa ohjelmakoodia purkamisen jälkeen eikä palauttaa ohjelmakoodia symboliselle konekielelle. Tämä koskee koko Ohjelmistoa tai sen osaa.  Käyttäjä ei saa teettää samaa kolmannella osapuolella. 
+
+5. Kolmannen osapuolen käyttö
+Käyttäjä ei saa siirtää, vuokrata, leasing-vuokrata tai muulla tavalla toimittaa koko Ohjelmistoa tai sen osaa kolmannelle osapuolelle.
+
+6. Takuun vastuuvapauslauseke
+Yritys ei vastaa mistään Ohjelmiston käytöstä aiheutuneista välittömistä tai välillisistä vahingoista.  Selvyyden vuoksi Yritys ei vastaa mistään Ohjelmistoon liittyvistä kiistoista, jotka koskevat jonkin kolmannen osapuolen immateriaalioikeuksia. 
+Käyttäjä käyttää Ohjelmistoa omalla vastuullaan, ja käyttäjä vastaa Ohjelmiston käytöstä tietokonejärjestelmälle aiheutuneista vahingoista tai Ohjelmiston käytöstä johtuvasta tietojen menetyksestä.
+
+7. DPInst-ohjelma
+Käyttäjä voi käyttää Microsoft Corporationin ("Microsoft") toimittamaa Driver Package Installer ("DPInst") -asennusohjelmaa ilmaiseksi vain, jos käyttäjä hyväksyy seuraavat ehdot:
+(a) Käyttäjä saa käyttää DPInst-ohjelmaa vain Ohjelmiston asennukseen.
+(b) Käyttäjä ei saa muokata eikä muuttaa DPInst-ohjelmaa, purkaa ohjelmakoodia, palauttaa ohjelmakoodia purkamisen jälkeen eikä palauttaa ohjelmakoodia symboliselle konekielelle. Tämä koskee koko ohjelmaa tai sen osaa.
+(c) Käyttäjä ei saa vuokrata, leasing-vuokrata tai millään muulla tavalla toimittaa koko DPInst-ohjelmaa tai sen osaa kolmannelle osapuolelle. 
+(d) Käyttäjä ei saa kopioida DPInst-ohjelmaa.  (Käyttäjä saa kuitenkin tehdä DPInst-ohjelmasta yhden kopion varmuuskopiointia varten.)
+(e) Microsoft pidättää itselleen DPInst-ohjelman kaikki oikeudet. 
+(f) Käyttäjä ei saa käyttää Microsoftin tavaramerkkejä ohjelmiensa nimissä tai sellaisella tavalla, joka antaa ymmärtää, että käyttäjän ohjelmat tulevat Microsoftilta tai ovat Microsoftin tukemia.
+(g) Microsoft ei tarjoa mitään DPInst-ohjelman tukipalveluja.
+(h) DPInst-ohjelma lisensoidaan "sellaisenaan", eikä Microsoft vastaa käyttäjälle DPInst-ohjelman käytöstä aiheutuneista vahingoista.  Selvyyden vuoksi Microsoft ei vastaa mistään DPInst-ohjelmaan liittyvistä kiistoista, jotka koskevat jonkin kolmannen osapuolen immateriaalioikeuksia. 
+(i) Käyttäjän on noudatettava kaikkia DPInst-ohjelmaa koskevia kotimaisia ja kansainvälisiä vientilakeja ja -määräyksiä.
+(j) Käyttäjä voi vaatia Microsoftilta enintään 5,00 Yhdysvaltain dollarin vahingonkorvausta.
+
+8. Muuta
+(1) Yritys voi muuttaa Ohjelmiston määrittelyä ja käyttöohjeita ilmoittamatta siitä. 
+(2) Tähän Sopimukseen sovelletaan Japanin lakeja.  Tästä Sopimuksesta tai sen yhteydessä mahdollisesti aiheutuvat kiistat tai erimielisyydet ratkaistaan Tokion piirioikeudessa.
+(3) Ei ole mitään kirjallisia tai suullisia sopimuksia, esipainettuja tai muulla tavoin ilmoitettuja vakioehtoja, -takuita, -lausuntoja tai -tulkintoja, jotka vaikuttavat tähän Sopimukseen, ja tämä Sopimus korvaa kaikki aikaisemmat kirjalliset ja suulliset osapuolien väliset tulkinnat ja sopimukset. 

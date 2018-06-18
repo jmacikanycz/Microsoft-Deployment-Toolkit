@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?tpi version="0290" ?>
+<build id="N1AVU03W" keyname="HOTKEYPACK4">
+  <title><gd path="/build/data/resolve[@method=LANGUAGE]"></gd></title>
+  <version>5.51.0100</version>
+  <os id="9X"></os>
+  <os id="NT">[XP,]</os>
+  <data>
+    <resolve method="LANGUAGE" default="0009">
+      <item id="0009"><data>ThinkPad Hotkey Features Integration Setup</data></item>
+      <item id="0011"><data>ThinkPad　ホットキー機能統合　セットアップ</data></item>
+    </resolve>
+  </data>
+  <tpi id="HOTKEY">
+    <xrelease order="XP_THINK LH_THINK W8_THINK" cpu="X86 AMD64">
+      <release id="XP_THINK">
+        <title><gd tpipath="data/resolve[@method=LANGUAGE]">NAME</gd></title>
+        <version><gd tpipath="data/resolve[@method=LANGUAGE]">VERSION</gd></version>
+        <lastversion id="CRITICAL"></lastversion>
+        <setup>\OSD\tphk_tp.inf, DefaultInstall.XP</setup>
+        <uninstall>@REG\OnScreenDisplay</uninstall>
+        <os id="9X"></os>
+        <os id="NT">[XP,WS]</os>
+      </release>
+      <release id="LH_THINK">
+        <title><gd tpipath="data/resolve[@method=LANGUAGE]">NAME</gd></title>
+        <version><gd tpipath="data/resolve[@method=LANGUAGE]">VERSION</gd></version>
+        <lastversion id="CRITICAL"></lastversion>
+        <setup>\OSD\tphk_tp.inf, DefaultInstall.LH</setup>
+        <uninstall Wow6432Node="no">@REG\OnScreenDisplay</uninstall>
+        <os id="9X"></os>
+        <os id="NT">[LH,W7]</os>
+      </release>
+      <release id="W8_THINK">
+        <title><gd tpipath="data/resolve[@method=LANGUAGE]">NAME</gd></title>
+        <version><gd tpipath="data/resolve[@method=LANGUAGE]">VERSION</gd></version>
+        <lastversion id="CRITICAL"></lastversion>
+        <setup>\OSD\tphk_tp.inf, DefaultInstall.W8</setup>
+        <uninstall Wow6432Node="no">@REG\OnScreenDisplay</uninstall>
+        <os id="9X"></os>
+        <os id="NT">[W8,]</os>
+      </release>
+    </xrelease>
+    <data>
+      <resolve method="LANGUAGE" default="0009">
+        <item id="0009">
+          <data id="VERSION">8.51.01</data>
+          <data id="NAME">On Screen Display</data>
+        </item>
+        <item id="0011"><data id="NAME">オン スクリーン表示</data></item>
+        <item id="0006"><data id="NAME">Vis på skærm</data></item>
+        <item id="000B"><data id="NAME">Kuvaruututeksti</data></item>
+        <item id="000C"><data id="NAME">Incrustation</data></item>
+        <item id="0007"><data id="NAME">Anzeige am Bildschirm</data></item>
+        <item id="0010"><data id="NAME">Display su Schermo</data></item>
+        <item id="0013"><data id="NAME">Weergave op scherm</data></item>
+        <item id="0014"><data id="NAME">Visning på skjermen</data></item>
+        <item id="000A"><data id="NAME">En pantalla</data></item>
+        <item id="001D"><data id="NAME">Visa på skärmen</data></item>
+        <item id="0404"><data id="NAME">On Screen Display</data></item>
+        <item id="0804"><data id="NAME">On Screen Display</data></item>
+        <item id="0012"><data id="NAME">On Screen Display</data></item>
+      </resolve>
+    </data>
+  </tpi>
+  <tpi id="SMIIF">
+    <xrelease order="RELEASE" cpu="X86 AMD64">
+      <release id="RELEASE">
+        <title><gd tpipath="data/resolve[@method=LANGUAGE]"></gd></title>
+        <version>1.05</version>
+        <lastversion id="CRITICAL"></lastversion>
+        <setup>\smiif\lnvsmi.inf, DefaultInstall</setup>
+        <uninstall Wow6432Node="no">@REG\LENOVO.SMIIF</uninstall>
+        <os id="9X"></os>
+        <os id="NT">[XP,WS]</os>
+      </release>
+    </xrelease>
+    <data>
+      <resolve method="LANGUAGE" default="0009">
+        <item id="0009"><data>Lenovo System Interface Driver</data></item>
+        <item id="0011"><data>Lenovo システム制御ドライバ</data></item>
+      </resolve>
+    </data>
+  </tpi>
+</build>

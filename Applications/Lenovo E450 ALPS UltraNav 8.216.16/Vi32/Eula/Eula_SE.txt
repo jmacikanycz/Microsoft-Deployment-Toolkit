@@ -1,0 +1,40 @@
+﻿Licensvillkor för Programvaran
+
+Dessa licensvillkor utgör ett avtal ("Avtal") mellan Dig och Alps Electric Co., Ltd. ("Företag"). Läs dem noga innan Ni använder Företagets drivrutiner ("Programvara") för GlidePoint, DualPoint, StickPointer osv. ("Pekdon"). Genom att använda Programvaran accepterar Ni villkoren i detta Avtal. Om Ni inte accepterar dem har Ni inte rätt att använda Programvaran. 
+
+1. Använda Programvaran
+Ni har rätt att installera och använda Programvaran på en persondator som Företagets Pekdon är anslutet till.
+
+2. Ägande av rättigheter
+Företaget förbehåller sig alla rättigheter till Programvaran inklusive immaterialrättigheter.
+
+3. Kopiering
+Ni har inte rätt att kopiera hela eller delar av Programvaran. Ni har emellertid rätt att göra en säkerhetskopia av Programvaran.
+
+4. Modifieringar och ändringar
+Ni har inte rätt att modifiera, ändra, bakåtkompilera, dekompilera eller plocka isär hela eller delar av Programvaran. Ni har heller inte rätt att låta tredje part göra detsamma. 
+
+5. Tredje parts användning
+Ni har inte rätt att överföra, hyra ut, leasa ut eller på annat sätt förse tredje part med hela eller delar av Programvaran.
+
+6. Garantibegränsning
+Företaget ansvarar inte för några som helst direkta eller indirekta skador, följdskador eller andra skador som kan uppstå när Programvaran används. Företaget ansvarar inte för några tvister om Programvaran beträffande tredje parts immaterialrättigheter. 
+Ni använder Programvaran under Ert eget ansvar och Ni ansvarar för alla slags skador på Ert datorsystem, eller förlust av data, till följd av att Programvaran används.
+
+7. DPInst
+Ni har endast rätt att kostnadsfritt använda programvaran Driver Package Installer ("DPInst"), som tillhandahålls av Microsoft Corporation ("Microsoft"), om Ni accepterar nedanstående villkor:
+(a) Ni har endast rätt att använda DPInst i syfte att installera Programvaran.
+(b) Ni har inte rätt att modifiera, ändra, bakåtkompilera, dekompilera eller plocka isär hela eller delar av DPInst.
+(c) Ni har inte rätt att hyra ut, leasa ut eller på annat sätt förse tredje part med hela eller delar av DPInst. 
+(d) Ni har inte rätt att kopiera DPInst. (Ni har emellertid rätt att göra en säkerhetskopia av DPInst.)
+(e) Microsoft förbehåller sig alla rättigheter till DPInst. 
+(f) Ni har inte rätt att använda Microsofts varumärken i Era programs namn eller på ett sätt som antyder att Era program är tillverkade av eller är godkända av Microsoft.
+(g) Microsoft har ingen supporttjänst för DPInst.
+(h) DPInst licensieras i befintligt skick och Microsoft ansvarar inte för några som helst skador som åsamkats Er på grund av DPInst. Microsoft ansvarar inte för några tvister om DPInst beträffande tredje parts immaterialrättigheter. 
+(i) Ni måste följa alla inhemska och internationella exportregler som berör DPInst.
+(j) Ni kan få skadeersättning från Microsoft på upp till USD 5,00.
+
+8. Övrigt
+(1) Företaget kan i framtiden ändra Programvarans specifikation och handböcker utan föregående meddelande. 
+(2) Det här Avtalet regleras av japansk lag. Varje form av tvist, oenighet eller meningsskiljaktighet som detta Avtal kan ge upphov till ska prövas av domstol i Tokyo.
+(3) Det finns inga skrivna eller muntliga avtal, förtryckta eller på annat sätt meddelade standardvillkor, garantier, information eller överenskommelser som påverkar detta Avtal, och detta Avtal ersätter alla tidigare skrivna och muntliga överenskommelser och avtal mellan parterna. 

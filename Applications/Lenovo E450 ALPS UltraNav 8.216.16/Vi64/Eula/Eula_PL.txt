@@ -1,0 +1,41 @@
+﻿Warunki umowy licencyjnej oprogramowania
+
+Niniejsze warunki stanowią umowę („Umowa”) pomiędzy użytkownikiem a firmą Alps Electric Co., Ltd. („Firma”). Przed rozpoczęciem korzystania ze sterowników („Oprogramowanie”) urządzeń GlidePoint, DualPoint, StickPointer etc. („Urządzenie wskazujące”) Firmy należy przeczytać te warunki. Korzystanie z Oprogramowania oznacza wyrażenie zgody na warunki Umowy. Jeżeli użytkownik nie akceptuje warunków umowy, nie należy korzystać z Oprogramowania. 
+
+1.Korzystanie z Oprogramowania
+Użytkownik może zainstalować i korzystać z Oprogramowania na jednym komputerze osobistym wyposażonym w Urządzenie wskazujące.
+
+2.Prawo własności
+Firma zastrzega sobie wszelkie prawa do Oprogramowania, w tym prawa własności intelektualnej.
+
+3.Kopia
+Kopiowanie Oprogramowania w całości lub w części jest zabronione. Można jednak wykonać jedną kopię zapasową Oprogramowania.
+
+4.Modyfikacje i zmiany
+Nie wolno dokonywać modyfikacji, zmian, odtwarzania kodu źródłowego, dekompilacji ani dezasemblacji Oprogramowania w całości ani w części. Nie wolno zezwalać na wykonywanie tych czynności osobom trzecim. 
+
+5.Korzystanie przez osoby trzecie
+Nie wolno przekazywać, wypożyczać, dzierżawić lub w inny sposób udostępniać Oprogramowania osobom trzecim w całości ani w części.
+
+6.Wyłączenie odpowiedzialności z tytułu gwarancji
+Firma nie będzie odpowiadać za żadne szkody (a w szczególności szkody bezpośrednie, pośrednie, wynikowe lub szczególne) spowodowane korzystaniem z Oprogramowania. W celu uniknięcia wątpliwości Firma nie będzie odpowiadać za jakiekolwiek spory dotyczące Oprogramowania związane z prawem własności intelektualnej innych firm. 
+Użytkownik korzysta z Oprogramowania na własną odpowiedzialność i odpowiada za wszelkie szkody dotyczące systemu komputerowego oraz utratę danych, wynikające z korzystania z Oprogramowania.
+
+7.DPInst
+Użytkownik może bezpłatnie korzystać z oprogramowania Driver Package Installer („DPInst”) dostarczonego przez firmę Microsoft Corporation („Microsoft”) jedynie w przypadku wyrażenia zgody na poniższe warunki:
+(a) Z oprogramowania DPInst można korzystać wyłącznie w celu instalacji Oprogramowania.
+(b) Nie wolno dokonywać modyfikacji, zmian, odtwarzania kodu źródłowego, dekompilacji ani dezasemblacji oprogramowania DPInst w całości ani w części.
+(c) Nie wolno wypożyczać, dzierżawić ani w inny sposób udostępniać osobom trzecim oprogramowania DPInst w całości ani w części. 
+(d) Nie wolno kopiować oprogramowania DPInst.
+ (Można jednak wykonać jedną kopię zapasową oprogramowania DPInst.)
+(e) Firma Microsoft zastrzega sobie wszelkie prawa do oprogramowania DPInst. 
+(f) Zabrania się używania znaków towarowych firmy Microsoft w nazwach programów lub w sposób sugerujący, że programy pochodzą z firmy Microsoft lub są przez nią rekomendowane.
+(g) Firma Microsoft nie zapewnia pomocy technicznej dotyczącej oprogramowania DPInst.
+(h) Oprogramowanie DPInst jest licencjonowane w stanie „tak jak jest”, a firma Microsoft nie ponosi odpowiedzialności za żadne szkody poniesione przez użytkownika wynikające z korzystania z oprogramowania DPInst. W celu uniknięcia wątpliwości, firma Microsoft nie będzie odpowiadać za jakiekolwiek spory dotyczące oprogramowania DPInst związane z prawem własności intelektualnej innych firm. 
+(i) Należy przestrzegać wszelkich krajowych i międzynarodowych przepisów dotyczących eksportu, które mają zastosowanie w przypadku oprogramowania DPInst.
+(j) Możliwe jest uzyskanie rekompensaty od firmy Microsoft za szkody do wysokości 5,00 USD.
+
+8.Inne
+(1) Firma może zmienić w przyszłości i bez powiadomienia specyfikację i instrukcje obsługi Oprogramowania. 
+(2) W przypadku tej umowy obowiązującym jest prawo Japonii. Wszelkie spory, kontrowersje i różnice zdań wynikające lub związane z tą Umową będą rozpatrywane przez Sąd Okręgowy miasta Tokio.
+(3) Nie istnieją pisemne ani ustne umowy, uprzednio wydrukowane lub w inny sposób ogłoszone standardowe warunki i postanowienia, gwarancje, szczegóły lub porozumienia mające wpływ na niniejszą Umowę. Niniejsza Umowa zastępuje wszelkie wcześniejsze pisemne i ustne porozumienia i umowy pomiędzy stronami. 

@@ -1,0 +1,2 @@
+Set objShell = Wscript.CreateObject("Wscript.Shell")
+objShell.Popup "HP EliteBook 840 G3 Near Field Proximity 3.7760 driver was already installed on this computer!",3, "HP EliteBook 840 G3 Near Field Proximity 3.7760 driver Installed"

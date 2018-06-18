@@ -1,0 +1,52 @@
+﻿Podmínky softwarové licence
+
+Tyto licenční podmínky jsou dohodou (dále jen „Dohoda“) mezi vámi a společností Alps Electric Co., Ltd. (dále jen „Společnost“).  Před použitím ovladačů (dále jen „Software“) výrobků GlidePoint, DualPoint, StickPointer atd. (dále jen „Ukazovací zařízení“) vyráběných Společností si tyto podmínky přečtěte.  Používáním Softwaru přijímáte podmínky uvedené v této Dohodě.  Pokud je nepřijmete, nemůžete Software používat. 
+
+1. Použití Softwaru
+Software můžete nainstalovat na jeden osobní počítač, který je vybaven Ukazovacím zařízením Společnosti, a používat jej na něm.
+
+2. Vlastnictví práv
+Společnost si vyhrazuje všechna práva k Softwaru včetně práv na ochranu duševního vlastnictví.
+
+3. Kopírování
+Nesmíte kopírovat Software ani jeho část.  Avšak můžete si zhotovit jednu kopii Softwaru za účelem zálohy.
+
+4. Úpravy a změny
+Nesmíte upravovat nebo měnit Software ani jeho části, stejně tak provádět jejich zpětnou analýzu, zpětný překlad nebo převod ze strojového kódu.  Nesmíte to dovolit ani třetím osobám. 
+
+5. Použití třetími osobami
+Žádnou část Softwaru nesmíte přenášet, pronajímat nebo jiným způsobem poskytovat třetím osobám.
+
+6. Ustanovení o omezení záruky
+Společnost není zodpovědná za jakékoli škody (což zahrnuje mimo jiné přímé, nepřímé, následné nebo zvláštní škody) způsobené používáním Softwaru.  Aby nedošlo k pochybám, Společnost nezodpovídá za jakékoli spory ve věci Softwaru týkající se práv duševního vlastnictví třetí osoby. 
+Software používáte na vlastní zodpovědnost a jste zodpovědní za každé poškození počítačového systému nebo ztrátu dat způsobenou používáním Softwaru.
+
+7. Instalátor balíku ovladačů
+Můžete bezplatně používat Instalátor balíku ovladačů (Driver Package Installer, dále „Dpinst“), pokud souhlasíte s následujícími podmínkami:
+(a) Můžete používat DPInst pouze za účelem instalace Softwaru.
+(b) Nesmíte upravovat nebo měnit DPInst ani jeho části, stejně tak provádět jejich zpětnou analýzu, zpětný překlad nebo převod ze strojového kódu.
+(c) Žádnou část DPInst nesmíte přenášet, pronajímat nebo jiným způsobem poskytovat třetím osobám. 
+(d) Nesmíte kopírovat DPInst.  (Avšak můžete si zhotovit jednu kopii DPInst za účelem zálohy.)
+(e) Společnost Microsoft si vyhrazuje všechna práva k DPInst. 
+(f) Nesmíte používat ochranné známky společnosti Microsoft v názvech svých programů nebo způsobem, který naznačuje, že tyto programy pocházejí od společnosti Microsoft nebo jsou jí podporovány.
+(g) Společnost Microsoft nebude pro DPInst poskytovat žádnou podporu.
+(h) DPInst je licencován bez dalších záruk a společnost Microsoft nezodpovídá za žádné škody způsobené DPInst.  Aby nedošlo k pochybám, společnost Microsoft nezodpovídá za jakékoli spory ve věci DPInst týkající se práv duševního vlastnictví třetí osoby. 
+(i) Musíte dodržovat veškeré domácí a mezinárodní zákony předpisy o vývozu týkající se DPInst.
+(j) Od společnosti Microsoft můžete získat odškodnění do výše 5,00 USD.
+
+8. Různé
+(1) Společnost může v budoucnu změnit údaje o Softwaru nebo příručky k němu bez předchozího oznámení. 
+(2) Tato Dohoda se řídí zákony Japonska.  Jakékoli pochyby, spory nebo názorové rozdíly, které mohou vyplývat z této Dohody nebo s ní souviset, budou řešeny obvodním soudem v Tokiu.
+(3) Neexistují žádné písemné či slovní dohody, předtištěné nebo jinak sdělené standardní podmínky, záruky, vyjádření nebo dohody týkající se této Dohody a tato Dohoda nahrazuje všechny předchozí písemné i ústní dohody a smlouvy mezi stranami. 
+
+
+
+
+
+
+
+
+
+
+
+

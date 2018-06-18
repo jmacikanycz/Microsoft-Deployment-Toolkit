@@ -1,0 +1,268 @@
+                                                                                                                     Revision : 01
+
+--------------------------------------------------------------------------------
+
+Software name      Validity Fingerprint Common Driver 
+
+ 
+
+Supported models   products with Validity VFS 5011 sensor
+Sensor PID:
+VFS 5011 PID 0011
+VFS 5011 PID 0015
+VFS 5011 PID 0017  
+
+Products:
+E431/E531    
+S431
+S440
+S531 
+V4400u
+M4400s
+L440
+L540
+E440
+E540
+S540
+M5400
+B5400 
+E4430
+
+Operating Systems  This release is compatible with the 32-bit and 64-bit versions of Windows 8.1
+ 
+
+Version           4.5.266.0
+
+ 
+--------------------------------------------------------------------------------
+WHAT THIS PACKAGE DOES
+
+  This package installs the Validity fingerprint driver to enable the following
+  device.
+
+    Device name                    Device name in the Device Manager
+    -----------------------------  -------------------------------------------------
+    VFS 5011 sensor                 Validity Sensors(WBF)
+
+  Refer to marketing materials to find out what computer models support which
+  devices.
+
+--------------------------------------------------------------------------------
+CHANGES IN THIS RELEASE
+
+
+Version       4.5.266.0
+
+1. Fix for Fingerprint credential provider disappears at windows logon screen.
+2. Added high DPI resolution displays for LFM.
+
+
+ 
+---------------------------------------------------------------------------------
+
+DETERMINING WHICH VERSION OF PATCH TARGET IS INSTALLED
+
+1. Launch Windows Device manager. 
+2. Expand the Biometric devices section.
+3. Double-click Validity Sensors(WBF).
+4. Click the Driver tab.
+5. Check Driver Version.
+ 
+
+--------------------------------------------------------------------------------
+
+INSTALLATION INSTRUCTIONS
+
+
+The following installation options are provided for installing 
+fingerprint driver:
+
+- Local installation through the set-up wizard
+- Silent installation
+
+
+After the installation process completes, you will be guided through the steps of enrolling 
+your fingerprint.
+
+ 
+Local installation through the set-up wizard 
+===========================================
+
+You can install Validity Fingerprint Common Driver through the set-up wizard.
+It is recommended to read the texts in set-up wizard during the installation process.
+
+To install Validity Fingerprint Common Driver, do the following:
+
+1. Navigate to the folder where you downloaded the executable.
+2. Double-click the .exe file. The set-up wizard is displayed.
+3. Follow the instructions on the screen to complete the installation process.  
+
+
+
+SILENT INSTALLATION
+===================
+
+WBFDDKSetup_CMN_5011.exe /s
+  
+
+--------------------------------------------------------------------------------
+
+UNINSTALLATION INSTRUCTIONS
+
+
+ 
+UNINSTALLATION INSTRUCTIONS
+
+  1.  Double-click the 'Biometric devices controllers' in device manager.
+  2.  Double-click 'Validity Sensors (WBF)'.
+  3.  Click the 'Driver' tab, then click 'Uninstall' button.
+  4.  Check 'Delete the driver software for this device." box.
+  5.  Press the 'OK' button to uninstall driver.
+
+
+--------------------------------------------------------------------------------
+
+VERSION INFORMATION
+
+ 
+
+  The following versions have been released to date.
+
+ 
+
+  Version       Rev.  Issue Date
+
+  -------       ----  ---------------
+  4.5.266.0     01    2014-8-4
+  4.5.258.0     01    2014-5-29
+  4.5.240.0     01    2013-11-6
+
+ 
+
+  Note: Revision number (Rev.) is for administrative purpose of this README
+
+        document and is not related to driver version. There is no need to
+
+        upgrade this driver when the revision number changes.
+
+ 
+
+ 
+
+ 
+
+Summary of Changes
+
+ 
+
+  Where: <   >        Version number
+
+         [Important]  Important update
+
+         (New)        New function or enhancement
+
+         (Fix)        Correction to existing function
+
+
+<4.5.266.0>
+
+ -(Fix)   Fix for Fingerprint credential provider disappears at windows logon screen.
+ -(New)   Added high DPI resolution displays for LFM.
+
+
+<4.5.258.0>
+
+-(Fix)  Fixed First enrollment LED issue from Driver side.
+-(New)  Added new extension for LED ACTIVE mode on FMA User identification.
+-(New)  Updated extension document and sample wbf with new LED changes.
+
+
+<4.5.240.0>
+
+ -(Initial release)  A standalone version for windows 8.1.
+
+ 
+
+ 
+
+================================================================================
+
+REFERENCE INFORMATION
+
+ 
+
+  Nothing. 
+
+ 
+
+================================================================================
+
+ 
+
+ 
+
+--------------------------------------------------------------------------------
+
+LIMITATIONS
+
+ 
+
+  Nothing.
+
+ 
+
+ 
+
+--------------------------------------------------------------------------------
+
+TRADEMARKS
+
+ 
+
+The following terms are trademarks of Lenovo in the United States, other
+
+countries, or both:
+
+ 
+
+Lenovo
+
+ThinkCentre
+
+ThinkPad
+
+ThinkVantage
+
+
+
+ 
+
+Microsoft, Windows, and Windows NT are trademarks or registered trademarks
+
+of Microsoft Corporation in the United States, other countries, or both.
+
+ 
+
+Other company, product, and service names may be trademarks or service marks
+
+of others.
+
+ 
+
+THIS DOCUMENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.LENOVO DISCLAIMS
+
+ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED,INCLUDING WITHOUT LIMITATION, THE
+
+IMPLIED WARRANTIES OF FITNESSFOR A PARTICULAR PURPOSE AND MERCHANTABILITY WITH
+
+RESPECT TO THE INFORMATION IN THIS DOCUMENT. 
+
+ 
+
+BY FURNISHING THIS DOCUMENT, LENOVO GRANTS NO LICENSES TO ANY PATENTS OR
+
+COPYRIGHTS.
+
+ 
+
+(C) Copyright Lenovo 2014. All rights reserved.

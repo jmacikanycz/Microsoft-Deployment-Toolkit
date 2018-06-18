@@ -1,0 +1,199 @@
+;
+; HpqKbFiltr.inf
+;
+; Installation inf for the HP Hotkey Support keyboard filter.
+;
+; © Copyright 2001-2013 Hewlett-Packard Development Company, L.P.
+;
+
+[Version]
+Signature="$Windows NT$"
+Provider=%Company%
+ClassGUID={4D36E96B-E325-11CE-BFC1-08002BE10318}
+Class=Keyboard
+CatalogFile.ntx86=HpqKbFiltrx86.cat
+CatalogFile.ntamd64=HpqKbFiltramd64.cat
+DriverVer=07/17/2013,7.0.6.1
+
+;
+; Source file information
+;
+
+[SourceDisksNames.x86]
+1 = %DiskId1%,,,
+
+[SourceDisksNames.amd64]
+1 = %DiskId1%,,,
+
+[SourceDisksFiles.x86]
+HpqKbFiltr.sys = 1
+wdfcoinstaller01011.dll=1
+
+[SourceDisksFiles.amd64]
+HpqKbFiltr64.sys = 1
+wdfcoinstaller01011.dll=1
+
+[DestinationDirs]
+HpqKbFiltr.CopyFiles.NTx86=10,system32\drivers
+HpqKbFiltr.CopyFiles.NTamd64=10,system32\drivers
+kbfiltr_CoInstaller_CopyFiles.ntx86 = 11  ; DIRID_SYSTEM
+kbfiltr_CoInstaller_CopyFiles.ntamd64 = 11  ; DIRID_SYSTEM
+
+;
+; Driver information
+;
+
+[Manufacturer]
+%Mfg%=HP,NTx86,NTamd64
+
+; For Win2K
+[HP]
+%DeviceDesc% = HpqKbFiltr, ACPI\HPQ8001
+
+; For XP and above
+[HP.NTx86]
+%DeviceDesc% = HpqKbFiltr.NTx86, ACPI\HPQ8001
+
+; For Win7 64-bit and above
+[HP.NTamd64]
+%DeviceDesc% = HpqKbFiltr.NTamd64, ACPI\HPQ8001
+
+;
+; General installation section
+;
+
+[HpqKbFiltr.NTx86]
+; perform port related actions from keyboard.inf
+Include=keyboard.inf
+Needs=STANDARD_Inst
+; Copy the driver over
+CopyFiles=HpqKbFiltr.CopyFiles.NTx86
+
+[HpqKbFiltr.NTamd64]
+; perform port related actions from keyboard.inf
+Include=keyboard.inf
+Needs=STANDARD_Inst
+; Copy the driver over
+CopyFiles=HpqKbFiltr.CopyFiles.NTamd64
+
+;
+; File sections
+;
+
+[HpqKbFiltr.CopyFiles.NTx86]
+HpqKbFiltr.sys
+
+[HpqKbFiltr.CopyFiles.NTamd64]
+HpqKbFiltr.sys, HpqKbFiltr64.sys
+
+
+;
+; Service Installation
+;
+
+[HpqKbFiltr.NTx86.Services]
+AddService = HpqKbFiltr,  , HpqKbFiltr_Service_Inst
+; Install the port driver and mouclass from keyboard.inf
+Include=keyboard.inf
+Needs=STANDARD_Inst.Services
+
+[HpqKbFiltr.NTamd64.Services]
+AddService = HpqKbFiltr,  , HpqKbFiltr_Service_Inst
+; Install the port driver and mouclass from keyboard.inf
+Include=keyboard.inf
+Needs=STANDARD_Inst.Services
+
+[HpqKbFiltr_Service_Inst]
+DisplayName    = %HpqKbFiltr.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 0                  ; SERVICE_ERROR_IGNORE
+LoadOrderGroup = Keyboard Port
+ServiceBinary  = %12%\HpqKbFiltr.sys
+AddReg         = HpqKbFiltr.AddReg.NT
+
+
+[HpqKbFiltr.NTx86.HW]
+; Add the device upper filter
+AddReg = HpqKbFiltr.NTx86.HW.AddReg
+; run the directives need by the port driver
+Include=keyboard.inf
+Needs=STANDARD_Inst.HW
+
+[HpqKbFiltr.NTamd64.HW]
+; Add the device upper filter
+AddReg = HpqKbFiltr.NTamd64.HW.AddReg
+; run the directives need by the port driver
+Include=keyboard.inf
+Needs=STANDARD_Inst.HW
+
+[HpqKbFiltr.NTx86.HW.AddReg]
+HKR,,"UpperFilters",0x00010008,"HpqKbFiltr"
+
+[HpqKbFiltr.NTamd64.HW.AddReg]
+HKR,,"UpperFilters",0x00010008,"HpqKbFiltr"
+
+[HpqKbFiltr.AddReg.NT]
+; 
+; Information for Vista and later
+;
+HKLM,System\CurrentControlSet\Services\HpqKbFiltr\Parameters,MaxButtons,%REG_DWORD%,4
+HKLM,System\CurrentControlSet\Services\HpqKbFiltr\Parameters,Buttons,%REG_BINARY%,\
+01,e0,00,00,31,01,00,00, 20,e0,00,00,ea,03,00,00, 2e,e0,00,00,e9,03,00,00,\
+30,e0,00,00,e8,03,00,00
+;
+;--- HpqKbFiltr Coinstaller installation ------
+;
+
+[HpqKbFiltr.NTx86.CoInstallers]
+AddReg=kbfiltr_CoInstaller_AddReg
+CopyFiles=kbfiltr_CoInstaller_CopyFiles.NTx86
+
+[HpqKbFiltr.NTamd64.CoInstallers]
+AddReg=kbfiltr_CoInstaller_AddReg
+CopyFiles=kbfiltr_CoInstaller_CopyFiles.NTamd64
+
+[kbfiltr_CoInstaller_AddReg]
+HKR,,CoInstallers32,0x00010000, "wdfcoinstaller01011.dll,WdfCoInstaller"
+
+[kbfiltr_CoInstaller_CopyFiles.NTx86]
+wdfcoinstaller01011.dll
+
+[kbfiltr_CoInstaller_CopyFiles.NTamd64]
+wdfcoinstaller01011.dll
+
+
+[HpqKbFiltr.NTx86.Wdf]
+KmdfService = HpqKbFiltr, kbfiltr_wdfsect
+
+[HpqKbFiltr.NTamd64.Wdf]
+KmdfService = HpqKbFiltr, kbfiltr_wdfsect
+
+[kbfiltr_wdfsect]
+KmdfLibraryVersion = 1.11
+
+
+[Strings]
+
+;
+; Non-Localizable Strings
+;
+
+REG_SZ         = 0x00000000
+REG_MULTI_SZ   = 0x00010000
+REG_EXPAND_SZ  = 0x00020000
+REG_BINARY     = 0x00000001
+REG_DWORD      = 0x00010001
+SERVICEROOT    = "System\CurrentControlSet\Services"
+
+
+;
+; Localizable Strings
+;
+Mfg = "Hewlett-Packard"
+DeviceDesc = "Standard 101/102-Key or Microsoft Natural PS/2 Keyboard for HP Hotkey Support"
+DiskId1 = "HpqKbFilter Driver Disk #1"
+HP  = "Standard 101/102-Key or Microsoft Natural PS/2 Keyboard for HP Hotkey Support"
+HpqKbFiltr.SvcDesc="HpqKbFilter Driver"
+Company = "Hewlett-Packard Development Company, L.P."
+

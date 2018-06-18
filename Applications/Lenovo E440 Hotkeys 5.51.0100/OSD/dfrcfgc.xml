@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<applications xmlns="http://schemas.microsoft.com/windows/cpltasks/v1" 
+              xmlns:sh="http://schemas.microsoft.com/windows/tasks/v1">
+  <application id="{5F3E5EED-2EC5-4C05-A53C-A856A873C20E}">
+    <sh:task id="{FE07D0E1-0F0D-4931-9D8F-F1E4B0772005}"> 
+      <sh:name>Change Settings</sh:name>
+      <sh:keywords>Lenovo.AdaptiveKeyboard;Adaptive;Adaptive Keyboard</sh:keywords>
+      <sh:command>%ProgramFiles%\Lenovo\Hotkey\dfrcfg.exe</sh:command>
+    </sh:task>
+    <sh:task id="{63D508D2-CD36-4B66-BDCC-E1004F4D3953}"> 
+      <sh:name>Help</sh:name>
+      <sh:keywords>Lenovo.AdaptiveKeyboard;Adaptive help;Adaptive Keyboard help</sh:keywords>
+      <sh:command>%ProgramFiles%\Lenovo\Hotkey\dfrcfgc.exe /Help</sh:command>
+    </sh:task>
+    <category id="2">
+      <sh:task idref="{FE07D0E1-0F0D-4931-9D8F-F1E4B0772005}"/>
+      <sh:task idref="{63D508D2-CD36-4B66-BDCC-E1004F4D3953}"/>
+    </category>
+  </application>
+</applications>

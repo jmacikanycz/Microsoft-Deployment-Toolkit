@@ -1,0 +1,40 @@
+﻿Yazılım Lisans Koşulları
+
+Bu lisans koşulları, Alps Electric Co., Ltd. ("Firma") ile sizin aranızda yapılan bir sözleşmedir (“Sözleşme”).  Lütfen bunları, Firma’nın GlidePoint, DualPoint, StickPointer vb. ("İşaretleme Aygıtı") sürücülerini (“Yazılım”) kullanmadan önce okuyun.  Yazılım’ı kullanarak bu Sözleşme’deki koşulları kabul etmiş olursunuz.  Koşulları kabul etmiyorsanız, Yazılım’ı kullanmamalısınız. 
+
+1.Yazılım’ın Kullanımı
+Yazılım’ı, Firma’nın İşaretleme Aygıtı’na sahip bir kişisel bilgisayara yükleyebilir ve kullanabilirsiniz.
+
+2.Hakların Mülkiyeti
+Firma, fikri mülkiyet hakları da dahil olmak üzere Yazılım’ın tüm haklarına sahiptir.
+
+3.Kopyalama
+Yazılım’ın tamamını veya bir kısmını kopyalamamalısınız.  Bununla birlikte, yalnızca yedekleme amacıyla Yazılım’ın bir kopyasını alabilirsiniz.
+
+4.Modifikasyon ve Değiştirme
+Yazılım’ın tamamını veya bir kısmını modifiye edemez, değiştiremez, ters mühendislik işlemi yapamaz, kaynak koda dönüştüremez ve derlemesini çözemezsiniz.  Üçüncü taraflara da aynısını yaptıramazsınız. 
+
+5.Üçüncü Taraf Kullanımı
+Yazılım’ın tamamını veya bir kısmını, üçüncü tarafa aktaramaz, kiralayamaz veya bir başka yolla veremezsiniz.
+
+6.Sorumluluk Reddi
+Firma, Yazılım’ın kullanımından doğacak hasarlardan (doğrudan, dolaylı, netice itibariyle veya özel hasarlar dahil ama bunlarla sınırlı olmayan) sorumlu tutulamaz.  Tereddüde yer vermemek için, Firma, herhangi bir üçüncü tarafın fikri mülkiyet haklarıyla bağlantılı, Yazılım anlaşmazlıklarıyla ilişkili olarak sorumlu tutulamaz.  
+Yazılım’ı kendi sorumluluğunuz altında kullanmalısınız ve bilgisayar sisteminize vereceği herhangi bir hasardan veya Yazılım’ın kullanımından doğacak herhangi bir veri kaybından siz sorumlu olacaksınız.
+
+7.DPInst
+Microsoft Corporation ("Microsoft") tarafından sağlanan Driver Package Installer’ı ("DPInst") ancak aşağıdaki şartları kabul ederseniz ücretsiz olarak kullanabilirsiniz:
+(a) DPInst’ı yalnızca Yazılım’ı yükleme amacıyla kullanmalısınız.
+(b) DPInst’in tamamını veya bir kısmını modifiye edemez, değiştiremez, ters mühendislik işlemi yapamaz, kaynak koda dönüştüremez ve derlemesini çözemezsiniz.
+(c) DPInst’in tamamını veya bir kısmını, herhangi bir üçüncü tarafa aktaramaz, kiralayamaz veya bir başka yolla veremezsiniz. 
+(d) DPInst’i kopyalamazsınız.  (Bununla birlikte, yedekleme amacıyla DPInst uygulamasının bir kopyasını alabilirsiniz.)
+(e) Microsoft, DPInst’in tüm haklarına sahiptir. 
+(f) Microsoft'un ticari markalarını, programlarınızın adlarında veya programlarınızın Microsoft tarafından onaylandığını veya oluşturulduğunu ima edecek şekilde programlarınızın adlarından kullanamazsınız.
+(g) Microsoft, DPInst için herhangi bir destek hizmeti vermez.
+(h) DPInst "olduğu gibi"dir ve Microsoft, DPInst’ten kaynaklanan uğradığınız hasarlardan sorumlu tutulamaz.  Tereddüde yer vermemek için, Microsoft, herhangi bir üçüncü tarafın fikri mülkiyet haklarıyla bağlantılı, DPInst anlaşmazlıklarıyla ilişkili olarak sorumlu tutulamaz.  
+(i) DPInst’e uygulanan tüm ulusal ve uluslararası ihracat kanun ve düzenlemelerine uymalısınız.
+(j) Hasarlar için Microsoft’tan en fazla 5,00 USD (Amerikan doları) geri alabilirsiniz.
+
+8.Muhtelif
+(1) Firma, gelecekte Yazılım’ın teknik özelliklerinde ve kılavuzlarında haber vermeksizin değişiklik yapabilir. 
+(2) Bu Sözleşme için uygulanacak kanun Japonya kanunlarıdır.  Bu Sözleşme’den veya bu Sözleşme’yle bağlantılı olarak oluşabilecek herhangi bir anlaşmazlık, ihtilaf veya görüş farklılığı Tokyo Bölge Mahkemesi tarafından giderilir.
+(3) Bu Sözleşme’yi etkileyen herhangi bir yazılı veya sözlü sözleşme, önceden basılmış veya başka yolla bildirilmiş standart kayıt ve şatlar, garantiler, temsiller veya karşılıklı anlaşmalar bulunmamaktadır ve bu Sözleşme taraflar arasındaki önceki tüm yazılı ve sözlü karşılıklı anlaşmaları ve sözleşmelerin yerine geçer. 

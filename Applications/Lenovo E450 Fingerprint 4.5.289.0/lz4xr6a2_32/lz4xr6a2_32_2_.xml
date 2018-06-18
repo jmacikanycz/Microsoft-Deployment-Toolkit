@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?pcdDescriptor version="0230"?>
+<Package name="FMA_LZ4X_32" id="lz4xr6a2_32" version="4.5.289.0" hide="False">
+  <Title default="EN">
+    <Desc id="EN">Validity Fingerprint Common Driver - 8.1 [32]</Desc>
+  </Title>
+  <DetectVersion type="Registry">
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{373FCFCC-8DC8-48A9-AD52-9D3D50B78B46}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E88B84EE-4D69-446B-9420-369F5513D4D9}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+  </DetectVersion>
+  <Summary default="EN" />
+  <Severity type="1" />
+  <Vendor>Lenovo</Vendor>
+  <ExtractCommand>lz4xr6a2.exe /VERYSILENT /DIR=%PACKAGEPATH% /EXTRACT="YES"</ExtractCommand>
+  <ReleaseDate>2014-08-12</ReleaseDate>
+  <DiskSpaceNeeded>33261640</DiskSpaceNeeded>
+  <Reboot type="3" />
+  <Install rc="0,3010" type="cmd" default="EN">
+    <Cmdline id="EN">%PACKAGEPATH%\WBFDDKSetup_CMN_5011.exe /s</Cmdline>
+  </Install>
+  <ManualInstall type="cmd" default="EN">
+    <Cmdline id="EN">%PACKAGEPATH%\WBFDDKSetup_CMN_5011.exe</Cmdline>
+  </ManualInstall>
+  <Uninstall />
+  <DetectInstall>
+    <_RegistryKeyValue type="REG_SZ">
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{14ED7351-CCBE-404E-A0B2-1978E40EB068}</Key>
+      <KeyName>DisplayVersion</KeyName>
+      <Version>4.5.289.0^</Version>
+    </_RegistryKeyValue>
+  </DetectInstall>
+  <Dependencies>
+    <And>
+      <_OS>
+        <OS>WIN81</OS>
+        <OS>WIN81-ENT</OS>
+        <OS>WIN81-PRO</OS>
+      </_OS>
+      <Or>
+        <_PnPID><![CDATA[USB\VID_138A&PID_0011]]></_PnPID>
+        <_PnPID><![CDATA[USB\VID_138A&PID_0015]]></_PnPID>
+        <_PnPID><![CDATA[USB\VID_138A&PID_0017]]></_PnPID>
+      </Or>
+      <_CPUAddressWidth>
+        <AddressWidth>32</AddressWidth>
+      </_CPUAddressWidth>
+    </And>
+  </Dependencies>
+  <Files>
+    <Installer>
+      <File>
+        <Name>lz4xr5a2.exe</Name>
+        <CRC>6F0EA40CAC92844794DB36857DCC334E4EF359E5</CRC>
+        <Size>15758008</Size>
+      </File>
+    </Installer>
+    <Readme default="EN">
+      <File id="EN">
+        <Name>lz4xr5a2.txt</Name>
+        <CRC>97DA7928B0A66B3D8394500D83D8ACCBB3DDA45B</CRC>
+        <Size>5857</Size>
+      </File>
+    </Readme>
+  </Files>
+</Package>

@@ -1,0 +1,40 @@
+﻿Licenčni pogoji za programsko opremo
+
+Ti licenčni pogoji so pogodba (»pogodba«) med vami in podjetjem Alps Electric Co., Ltd. (»podjetje«).  Preberite jih, preden uporabite gonilnike podjetja (»programsko opremo«) za GlidePoint, DualPoint, StickPointer itd. (»kazalno napravo«).  Če uporabljate programsko opremo, to pomeni, da se strinjate s pogoji v tej pogodbi.  Če se z njimi ne strinjate, programske opreme ne smete uporabljati. 
+
+1. Uporaba programske opreme
+Programsko opremo lahko namestitev in jo uporabljate v enem osebnem računalniku, ki ima kazalno napravo podjetja.
+
+2. Lastništvo pravic
+Podjetje si pridržuje vse pravice v zvezi s programsko opremo, vključno s pravicami intelektualne lastnine.
+
+3. Kopiranje
+Programske opreme ne smete kopirati niti v celoti niti po delih.  Lahko naredite samo eno kopijo in jo uporabljate kot varnostno kopijo.
+
+4. Spreminjanje in popravki
+Spreminjanje, popravljanje, obratno inženirstvo, povratno prevajanje ali razstavljanje programske opreme v celoti ali po delih ni dovoljeno.  Teh procesov ne sme izvesti tudi nobena tretja oseba. 
+
+5. Tretje osebe in uporaba programske opreme
+Programske opreme ne smete niti v celoti niti po delih prenesti, posoditi, dati v najem ali kako drugače ponuditi tretji osebi.
+
+6. Zavrnitev jamstva
+Podjetje ne odgovarja za kakršno koli škodo (vključno s (a ne omejeno na) neposredno, posredno, posledično ali posebno škodo), ki bi nastala zaradi uporabe programske opreme.  Da bi preprečili vse dvome, podjetje ne odgovarja za spore v zvezi s programsko opremo, ki bi nastali zaradi pravic intelektualne lastnine katere koli tretje osebe. 
+Programsko opremo uporabljate na lastno odgovornost. Prav tako sami odgovarjate za morebitno nastalo škodo v svojem računalniškem sistemu ali za izgubo podatkov, ki bi nastala zaradi uporabe programske opreme.
+
+7. DPInst
+Programsko opremo Driver Package Installer (»DPInst«) družbe Microsoft Corporation (»Microsoft«) lahko uporabljate brezplačno samo, če se strinjate s temi pogoji:
+(a) DPInst lahko uporabljate zgolj za nameščanje programske opreme.
+(b) Spreminjanje, popravljanje, obratno inženirstvo, povratno prevajanje ali razstavljanje programa DPinst v celoti ali po delih ni dovoljeno.
+(c) Programa DPInst ne smete niti v celoti niti po delih posoditi, dati v najem ali kako drugače ponuditi nobeni tretji osebi. 
+(d) Programa DPInst ne smete kopirati.  (Lahko naredite samo eno kopijo in jo uporabljate kot varnostno kopijo.)
+(e) Microsoft si pridržuje vse pravice glede programa DPInst. 
+(f) V imenih svojih programov ne smete uporabljati Microsoftovih blagovnih znamk oziroma jih ne smete uporabljati na način, ki napeljuje na to, da so vaši programi Microsoftovi oziroma da jih Microsoft odobrava.
+(g) Za program DPInst Microsoft ne zagotavlja nobene podpore.
+(h) Program DPInst je licenciran »kot je««. Microsoft ne odgovarja za morebitno škodo, ki bi jo utegnili imeti zaradi uporabe programa DPInst.  Da bi preprečili vse dvome, Microsoft ne odgovarja za spore v zvezi s programom DPInst, ki bi nastali zaradi pravic intelektualne lastnine katere koli tretje osebe. 
+(i) Pri uporabi programa DPInst morate upoštevati vso domačo in mednarodno zakonodajo in predpise za nadzor izvoza.
+(j) Od Microsofta lahko dobite povrnjeno samo škodo v višini 5 ameriških dolarjev.
+
+8. Razno
+(1) Podjetje lahko brez vnaprejšnjega obvestila spremeni specifikacije in priročnike za programsko opremo. 
+(2) Zakonodaja, ki velja za to pogodbo, je japonska zakonodaja.  Za spore, nesoglasja ali nestrinjanja v zvezi s to pogodbo je pristojno okrožno sodišče v Tokiju.
+(3) V zvezi s to pogodbo ne obstajajo nobeni pisni ali ustni dogovori, natisnjeni ali drugače posredovani standardni pogoji in določila, jamstva, garancije ali sporazumi; ta pogodba nadomešča vse prejšnje pisne in ustne sporazume in dogovore med strankami. 

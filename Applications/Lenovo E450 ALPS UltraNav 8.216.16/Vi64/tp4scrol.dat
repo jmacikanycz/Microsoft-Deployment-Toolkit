@@ -1,0 +1,186 @@
+; Record Format
+; OsName,OsVersion,AppName,TopClass,ParentClass,WindowClass,ScrollingType,
+; Pass,Exit
+;
+; OS Names           : * WIN NT
+; WIN OS Versions    : * 95  98    ; NT OS Versions     : * 4   5
+; Application Name   : * string
+; Top Class Name     : * string
+; Parent Class Name  : * string
+; WindowClass Name   : * string
+; Scrolling Types    : Standard WheelVkey WheelStd TwoParents VkKeys None
+; Pass               : 0 Use 0 to over-ride built-in program logic
+;                    : 1 Use 1 when everything else has failed
+; Flags              : 0 Don't exit function after match has succeed
+;                    : 1 Exit function after match has succeeded
+;                    : 2 Special check for FindHorzProc (SB_HORZ) that
+;                        requires that the CLIPCHILDREN flag not be set in
+;                        a horiz scroll bar window
+;                    : One or both of these flags should be specified
+;                    : 4 Rule applies to 2 button Trackpoint system
+;                    : 8 Rule applies to 3 button Trackpoint system
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Pass 0 rules (These rules run first)
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Windows IE3 patch for 2 button systems
+*,*,iexplore.exe,*,Shell DocObject View,HTML_Internet Explorer,Standard,0,5
+
+; Windows IE4 patch for 2 button systems
+*,*,explorer.exe,*,*,Internet Explorer_Server,VkKeys,0,5
+
+; Windows IE4 patch for 2 button systems
+*,*,iexplore.exe,*,*,Internet Explorer_Server,VkKeys,0,5
+
+; Outlook Express patch for 2 button systems
+*,*,msimn.exe,*,*,Internet Explorer_Server,VkKeys,0,5
+
+; Adobe Acrobat
+*,*,acrord32.exe,*,AVL_AVView,AVL_AVView,TwoParents,0,14
+*,*,acrobat.exe,*,AVL_AVView,AVL_AVView,TwoParents,0,14
+
+; PowerPoint File Open
+*,*,powerpnt.exe,PP97FrameClass,Snake List,OpenListView,Standard,0,13
+
+; PowerPoint 2000
+*,*,powerpnt.exe,PP9FrameClass,Snake List,OpenListView,Standard,0,13
+*,*,powerpnt.exe,PP9FrameClass,mdiClass,paneClassDC,TwoParentsP,0,12
+*,*,powerpnt.exe,PP9FrameClass,#32770,ScrollBar,StandardP,0,12
+
+; PowerPoint XP
+*,*,powerpnt.exe,PP10FrameClass,Snake List,OpenListView,Standard,0,13
+*,*,powerpnt.exe,PP10FrameClass,mdiClass,paneClassDC,TwoParentsP,0,12
+*,*,powerpnt.exe,PP10FrameClass,#32770,ScrollBar,StandardP,0,12
+
+; PowerPoint 2003
+*,*,powerpnt.exe,PP11FrameClass,Snake List,OpenListView,Standard,0,13
+*,*,powerpnt.exe,PP11FrameClass,mdiClass,paneClassDC,TwoParentsP,0,12
+*,*,powerpnt.exe,PP11FrameClass,#32770,ScrollBar,StandardP,0,12
+
+; PowerPoint 2007
+*,*,powerpnt.exe,PP12FrameClass,Snake List,OpenListView,Standard,0,13
+*,*,powerpnt.exe,PP12FrameClass,mdiClass,paneClassDC,TwoParentsP,0,12
+*,*,powerpnt.exe,PP12FrameClass,#32770,ScrollBar,StandardP,0,12
+
+; MS Publisher 2000
+;*,*,mspub.exe,,MSWinPub,*,WheelStd,0,9
+;*,*,mspub.exe,,,MSWinPub,WheelStd,0,9
+
+; Netscape 6
+;*,*,netscp6.exe,*,*,MozillaWindowClass,WheelStd,0,9
+
+; Hwp 2002 
+*,*,hwp.exe,HwpMainFrameWnd,*,HwpMainEditWnd,WheelStd,0,9
+NT,4,*,HwpMainFrameWnd,*,HwpMainEditWnd,WheelStd,0,9
+
+; Exceed
+*,*,exceed.exe,*,*,*,WheelP,0,9
+
+; Outlook 2003 HTML format
+*,*,outlook.exe,*,AfxWndW,*,WheelStd,0,9
+
+; Outlook 2003
+*,*,outlook.exe,rctrl_renwnd32,NativeHWNDHost,NetUIHWND,WheelStd,0,9
+
+; Outlook 2002 HTML format
+*,*,outlook.exe,*,AfxWndA,*,WheelStd,0,9
+
+; Outlook Express 6.0 when launched from IE
+*,*,iexplore.exe,ATH_Note,##MimeEdit_Server,Internet Explorer_Server,WheelStd,0,9
+
+; Outlook 2000
+*,*,outlook.exe,*,AfxWnd,*,WheelStd,0,9
+*,*,outlook.exe,*,rctrl_renwnd32,*,WheelStd,0,9
+*,*,outlook.exe,rctrl_renwnd32,SysListView32,AfxWnd,WheelStd,0,9
+
+; Win98/Win2k explorer left side window
+*,*,explorer.exe,CabinetWClass,SHELLDLL_DefView,Internet Explorer_Server,VkKeys,0,9
+; WinXP explorer left side window
+NT,5,explorer.exe,CabinetWClass,DUIViewWndClassName,DirectUIHWND,WheelStd,0,9
+
+; FrontPage 2000 views
+*,*,frontpg.exe,FrontPageExplorerWindow40,AfxWnd42,SysListView32,WheelStd,0,9
+
+; Opera web browser
+*,*,opera.exe,*,*,*,WheelStd,0,9
+
+; Google Picasa
+*,*,picasa2.exe,*,*,*,WheelStd,0,9
+
+; OpenOffice.org
+*,*,soffice.bin,*,*,*,WheelStd,0,9
+
+; Windows Mail
+*,*,WinMail.exe,*,*,*,WheelStd,0,9
+
+; Corel Quattro Pro
+*,*,QPW.exe,*,*,*,WheelVkey,0,9
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Pass 1 rules (These rules run last)
+;
+; If no scrolling method was found with the builtin logic, then
+; these rules are checked.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Outlook Express patch for 3 button systems
+WIN,*,msimn.exe,*,*,SysTreeView32,WheelStd,1,9
+WIN,*,msimn.exe,*,*,SysListView32,WheelStd,1,9
+WIN,*,msimn.exe,*,*,Internet Explorer_Server,Standard,1,9
+NT,*,msimn.exe,*,*,SysTreeView32,WheelStd,1,9
+NT,*,msimn.exe,*,*,SysListView32,WheelStd,1,9
+NT,*,msimn.exe,*,*,Internet Explorer_Server,Standard,1,9
+
+; Lotus Notes patch for both 2 and 3 button systems
+*,*,nlnotes.exe,NOTES,SCCVIEWER,SCCDISPLAY,Standard,1,13
+
+; SashWDE
+*,*,sashwde.exe,*,*,WDEEditor,Standard,1,13
+
+; Add/Remove Programs (Windows 2000)
+NT,5,mshta.exe,*,*,Internet Explorer_Server,Standard,1,9
+
+; Add/Remove Programs (Windows XP)
+NT,5,rundll32.exe,*,NativeHWNDHost,DirectUIHWND,WheelStd,1,9
+
+; Winamp
+*,*,winamp.exe,*,*,Winamp PE,WheelStd,1,9
+
+; Setup guide
+*,*,iexplore.exe,IEFrame,Internet Explorer_TridentDlgFrame,Internet Explorer_Server,WheelStd,1,9
+
+; MSAccess
+*,*,msaccess.exe,OMain,ODataPage,Internet Explorer_Server,WheelStd,1,9
+
+; Java support
+*,*,java.exe,*,*,*,WheelStd,1,9
+*,*,javaw.exe,*,*,*,WheelStd,1,9
+
+; Eudora
+*,*,eudora.exe,EudoraMainWindow,AfxFrameOrView42,Internet Explorer_Server,WheelStd,0,9
+*,*,eudora.exe,EudoraMainWindow,AfxFrameOrView70,Internet Explorer_Server,WheelStd,0,9
+*,*,eudora.exe,*,EudoraMainWindow,MDIClient,WheelVkey,0,9
+
+[AutoScrollTable]
+
+; AUTO SCROLL TABLE  AUTO SCROLL TABLE  AUTO SCROLL TABLE
+; AUTO SCROLL TABLE  AUTO SCROLL TABLE  AUTO SCROLL TABLE
+; AUTO SCROLL TABLE  AUTO SCROLL TABLE  AUTO SCROLL TABLE
+
+; List the Auto scrolling records under the [AutoScrollTable] section
+; Record Format
+; OsName,OsVersion,AppName,AppVersion,ScrollMethod
+;
+; OS Names            : * WIN NT
+; WIN OS Versions     : * 95  98    ; NT OS Versions     : * 4   5
+; Application Name    : * string
+; Application Version : * or x.x.x.x
+; ScrollMethod        : standard or smooth
+
+*,*,iexplore.exe,*,smooth
+*,*,winword.exe,*,smooth
+*,*,outlook.exe,*,smooth
+*,*,excel.exe,*,smooth
+*,*,msimn.exe,*,smooth

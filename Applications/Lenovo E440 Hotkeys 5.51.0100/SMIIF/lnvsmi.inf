@@ -1,0 +1,89 @@
+;-----------------------------
+; Copyright (C) Lenovo. 2006.
+;
+
+[Version]
+Signature ="$Windows NT$"
+
+[SourceDisksNames]
+1=%DiskId%,,
+
+[SourceDisksFiles.x86]
+lnvsmi.inf=1
+regcat.exe=1
+smiif32.sys=1
+[SourceDisksFiles.amd64]
+lnvsmi.inf=1
+regcat.exe=1
+smiifx64.sys=1
+
+[DestinationDirs]
+DefaultDestDir = 12
+InfFile=16422,Lenovo\SMIIF
+
+[DriverFile.NTx86]
+smiif32.sys
+[DriverFile.NTamd64]
+smiifx64.sys
+[InfFile]
+lnvsmi.inf
+regcat.exe
+
+[DefaultInstall.NTx86]
+CopyFiles = DriverFile.NTx86, InfFile
+AddReg = Uninstall.NTx86.Reg
+[DefaultInstall.NTamd64]
+CopyFiles = DriverFile.NTamd64, InfFile
+AddReg = Uninstall.NTamd64.Reg
+
+[DefaultUninstall.NTx86]
+DelFiles = DriverFile.NTx86, InfFile
+DelReg = Uninstall.NTx86.Reg, smiif_Service_Uninst
+[DefaultUninstall.NTamd64]
+DelFiles = DriverFile.NTamd64, InfFile
+DelReg = Uninstall.NTamd64.Reg, smiif_Service_Uninst
+
+[DefaultInstall.NTx86.Services]
+AddService = lenovo.smi, 0x00000002, smiif_Service_Inst.NTx86
+[DefaultInstall.NTamd64.Services]
+AddService = lenovo.smi, 0x00000002, smiif_Service_Inst.NTamd64
+
+[DefaultInstall.NTx86.RunFile]
+Run="%16422%\Lenovo\SMIIF\regcat.exe","%01%\lnvsmi.cat lnvsmi-%DrvVersion%.cat"
+[DefaultInstall.NTamd64.RunFile]
+Run="%16422%\Lenovo\SMIIF\regcat.exe","%01%\lnvsmi.cat lnvsmi-%DrvVersion%.cat"
+
+[smiif_Service_Inst.NTx86]
+DisplayName	= %DrvName%
+ServiceType	= 1
+StartType	= 1
+ErrorControl	= 1
+ServiceBinary	= %12%\smiif32.sys
+
+[smiif_Service_Inst.NTamd64]
+DisplayName	= %DrvName%
+ServiceType	= 1
+StartType	= 1
+ErrorControl	= 1
+ServiceBinary	= %12%\smiifx64.sys
+
+[smiif_Service_Uninst]
+HKLM,System\CurrentControlSet\Services\lenovo.smi
+
+[Uninstall.NTx86.Reg]
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,,,
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"DisplayVersion",0,"%DrvVersion%"
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"DisplayName",0,"%DrvName%"
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"DisplayIcon",0,"setupapi.dll,20"
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"UninstallString",0,"RunDll32.exe setupapi.dll,InstallHinfSection DefaultUninstall.NTx86 130 %16422%\Lenovo\SMIIF\lnvsmi.inf"
+[Uninstall.NTamd64.Reg]
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,,,
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"DisplayVersion",0,"%DrvVersion%"
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"DisplayName",0,"%DrvName%"
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"DisplayIcon",0,"setupapi.dll,20"
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LENOVO.SMIIF,"UninstallString",0,"RunDll32.exe setupapi.dll,InstallHinfSection DefaultUninstall.NTamd64 130 %16422%\Lenovo\SMIIF\lnvsmi.inf"
+
+[Strings]
+DrvName = "Lenovo System Interface Driver"
+DrvVersion = 1.05
+DiskId = "Lenovo Installation Disk"

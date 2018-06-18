@@ -1,0 +1,40 @@
+﻿Termos de Licenciamento do Software
+
+Estes termos de licenciamento constituem um contrato ("Contrato") entre o utilizador e a Alps Electric Co., Ltd. ("Empresa").  Leia-os antes de utilizar os controladores ("Software") para o GlidePoint, DualPoint, StickPointer, etc. ("Dispositivo Apontador") da Empresa.  Ao utilizar o Software, o utilizador aceita os termos no presente Contrato.  Se não os aceitar, não poderá utilizar o Software. 
+
+1.Utilização do Software
+Pode instalar e utilizar o Software num computador pessoal que tenha o Dispositivo Apontador da Empresa.
+
+2.Propriedade de Direitos
+A Empresa reserva-se todos os direitos do Software, incluindo direitos de propriedade intelectual.
+
+3.Cópias
+Não é permitido efectuar cópias da totalidade ou parte do Software.  É, no entanto, permitido efectuar uma cópia de segurança do Software.
+
+4.Modificação e Alteração
+Não é permitida a modificação, alteração, engenharia inversa, descompilação ou desmontagem da totalidade ou parte do Software.  Não é permitido solicitar este tipo de acção a terceiros. 
+
+5.Utilização por Terceiros
+Não é permitida a transferência, o aluguer, a locação financeira (leasing) ou o fornecimento, de outro modo, a terceiros da totalidade ou parte do Software.
+
+6.Exclusão de Garantias
+A Empresa não será responsável por quaisquer prejuízos (incluindo, sem limitação, prejuízos directos, indirectos, consequentes ou especiais) resultantes da utilização do Software.  Para evitar dúvidas, a Empresa não será responsável por qualquer litígio relacionado com o Software sobre direitos de propriedade intelectual de terceiros. 
+Deverá utilizar o Software sob a sua própria responsabilidade e será responsável por quaisquer danos ao sistema informático ou perda de dados resultantes da utilização do Software.
+
+7.DPInst
+Poderá utilizar o software Driver Package Installer ("DPInst") fornecido gratuitamente pela Microsoft Corporation ("Microsoft") apenas se concordar com as condições abaixo:
+(a) Deverá utilizar o DPInst exclusivamente para instalar o Software.
+(b) Não é permitida a modificação, alteração, engenharia inversa, descompilação ou desmontagem da totalidade ou parte do DPInst.
+(c) Não é permitido o aluguer, a locação financeira (leasing) ou o fornecimento, de outro modo, a terceiros da totalidade ou parte do DPInst. 
+(d) Não é permitido efectuar cópias do DPInst.  (É, no entanto, permitido efectuar uma cópia de segurança do DPInst.)
+(e) A Microsoft reserva-se todos os direitos do DPInst. 
+(f) Não é permitido utilizar as marcas registadas da Microsoft nos respectivos nomes de programas ou de uma forma que sugira que os programas são provenientes ou aprovados pela Microsoft.
+(g) A Microsoft não irá fornecer suporte técnico para o DPInst.
+(h) O DPInst está licenciado "tal como está" e a Microsoft não poderá ser responsabilizada por quaisquer prejuízos incorridos ou resultantes do DPInst.  Para evitar dúvidas, a Microsoft não será responsável por qualquer litígio relacionado com o DPInst sobre direitos de propriedade intelectual de terceiros. 
+(i) O utilizador deverá cumprir o disposto em todas as leis e regulamentos de exportação nacionais e internacionais aplicáveis ao DPInst.
+(j) A Microsoft apenas ressarcirá o utilizador por danos até ao montante de 5 Dólares ($5,00).
+
+8.Diversos
+(1) A Empresa poderá alterar as especificações e os manuais do Software em qualquer momento e sem aviso prévio. 
+(2) Este Contrato será regido pela lei aplicável no Japão.  Qualquer litígio, controvérsia ou divergência de opinião resultante ou relacionado com este Contrato será resolvido pelo Tribunal Distrital de Tóquio.
+(3) Não existem contratos escritos ou verbais, nem termos e condições, garantias, declarações ou acordos padrão pré-impressos ou, de outra forma, comunicados que afectem este Contrato. Este Contrato substitui todos os acordos ou contratos escritos e verbais anteriores existentes entre as entidades. 

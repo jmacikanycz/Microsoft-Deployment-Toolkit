@@ -1,0 +1,41 @@
+﻿Condizioni di licenza per l'uso del Software
+
+Le presenti condizioni di licenza costituiscono un contratto ("Contratto") tra l'utente ed Alps Electric Co., Ltd. ("Società"). Leggere le presenti condizioni prima di utilizzare i driver ("Software") per GlidePoint, DualPoint, StickPointer etc. ("Dispositivo di puntamento") della Società. Con l'uso del Software l'utente accetta le condizioni del presente Contratto. Se non si intendono accettare dette condizioni non è possibile utilizzare il Software.  
+
+1.Uso del software
+È possibile installare ed utilizzare il Software su un personal computer dotato di un Dispositivo di puntamento della Società.
+
+2.Proprietà e diritti
+La Società si riserva tutti i diritti sul Software, compresi quelli di proprietà intellettuale.
+
+3.Copie
+Non è ammesso duplicare il Software, neppure parzialmente. È consentita una sola copia di sicurezza.
+
+4.Modifiche e variazioni
+Non è consentito modificare, cambiare, reingegnerizzare, decompilare o disassemblare il Software, neppure parzialmente, né farlo fare ad altri.  
+
+5.Uso da parte di terzi
+Non è consentito trasferire, noleggiare, affittare né fornire a terzi, neppure parzialmente, il Software con altri mezzi.
+
+6.Declino di responsabilità
+La Società declina ogni e qualsiasi responsabilità per danni, compresi, senza intento limitativo, quelli diretti, indiretti, consequenziali o speciali, derivanti dall'uso del Software. A scanso d'equivoci la Società non sarà responsabile per eventuali controversie legate al Software relative ai diritti di proprietà intellettuale di terzi. 
+L'utente deve utilizzare il Software sotto la sua esclusiva responsabilità e sarà responsabile di eventuali danni al suo sistema informatico e perdite di dati derivanti dall'uso del Software.
+
+7.DPInst
+L'utente può utilizzare il programma d'installazione dei driver ("DPInst") fornito da Microsoft Corporation ("Microsoft") gratuitamente purché accetti le condizioni seguenti:
+(a) utilizzare DPInst solo per installare il Software;
+(b) non modificare, cambiare, reingegnerizzare, decompilare o dissassemblare, neppure parzialmente, DPInst;
+(c) non noleggiare, affittare o fornire a terzi con altri mezzi, neppure parzialmente, DPInst; 
+(d) non duplicare DPInst (a parte una copia di riserva);
+(e) Microsoft si riserva tutti i diritti su DPInst; 
+(f) l'utente non deve utilizzare i marchi di fabbrica Microsoft nei nomi dei suoi programmi né in alcun modo che possa far credere che i suoi programmi sono prodotti o riconosciuti da Microsoft;
+(g) Microsoft non fornisce assistenza per DPInst;
+(h) DPInst viene concesso in licenza nello stato in cui si trova ("as-is") e Microsoft non sarà responsabile per eventuali danni derivati dall'uso di DPInst. A scanso d'equivoci Microsoft non sarà responsabile di eventuali controversie relative a DPInst in materia di diritti di proprietà intellettuale di terzi; 
+(i) l'utente deve soddisfare tutte le leggi ed i regolamenti d'esportazione nazionali ed internazionali applicabili a DPInst;
+(j) l'importo massimo che l'utente può ottenere per danni da Microsoft è pari a US$ 5,00.
+
+8.Varie
+(1) La Società potrà cambiare le specifiche ed i manuali del Software senza preavviso. 
+(2) Il presente Contratto è disciplinato dal diritto giapponese. Per qualsiasi controversia, contestazione o divergenza d'opinione in relazione al presente Contratto sarà competente il Tribunale Distrettuale di Tokyo.
+(3) Non esistono accordi verbali o scritti, termini e condizioni prestampati o comunque notificati, garanzie, dichiarazioni o intese che possano influenzare il presente Contratto, il quale destituisce di fondamento tutti gli accordi e le intese pregressi tra le parti. 
+

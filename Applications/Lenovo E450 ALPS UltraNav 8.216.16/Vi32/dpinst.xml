@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<dpInst>
+	<legacyMode/>
+	<forceIfDriverIsNotBetter/>
+	<suppressAddRemovePrograms/>
+	<enableNotListedLanguages/>
+	<!-- US -->
+	<language code="0x0409">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>This wizard will help you install ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_US.txt"/>
+	</language>
+	<!-- JP -->
+	<language code="0x0411">
+		<dpinstTitle>ThinkPad UltraNav Driver インストーラ</dpinstTitle>
+		<welcomeIntro>このウィザードでは、Alps Pointing-device を動作させるために必要なソフトウェア ドライバをインストールします。</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_JP.txt"/>
+	</language>
+	<!-- GR -->
+	<language code="0x0407">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Mit diesem Assistenten können Sie ThinkPad UltraNav Driver installieren.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_GR.txt"/>
+	</language>
+	<!-- FR -->
+	<language code="0x040C">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Cet Assistant vous aide à installer ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_FR.txt"/>
+	</language>
+	<!-- IT -->
+	<language code="0x0410">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Questa procedura guidata consente di installare ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_IT.txt"/>
+	</language>
+	<!-- SP -->
+	<language code="0x0C0A">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Este asistente le ayuda a instalar ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_SP.txt"/>
+	</language>
+	<!--  LA   -->
+	<language code="0x080E">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Este asistente le ayuda a instalar ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_LA.txt"/>
+	</language>
+	<!-- CS -->
+	<language code="0x0804">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>此向导将帮助您安装 ThinkPad UltraNav Driver。</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_CS.txt"/>
+	</language>
+	<!-- CT -->
+	<language code="0x0404">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>此精靈將協助您安裝 ThinkPad UltraNav Driver。</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_CT.txt"/>
+	</language>
+	<!-- KR -->
+	<language code="0x0412">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>이 마법사는 사용자가 ThinkPad UltraNav Driver를 설치하도록 도와줍니다.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_KR.txt"/>
+	</language>
+	<!-- CZ -->
+	<language code="0x0405">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Průvodce vám pomůže nainstalovat ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_CZ.txt"/>
+	</language>
+	<!-- DK -->
+	<language code="0x0406">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Denne guide hjælper dig med at installere ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_DK.txt"/>
+	</language>
+	<!-- FI -->
+	<language code="0x040B">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Tämän ohjatun toiminnon avulla voit asentaa ThinkPad UltraNav Driver -ohjaimen.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_FI.txt"/>
+	</language>
+	<!-- GK -->
+	<language code="0x0408">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Αυτός ο οδηγός σας βοηθά να εγκαταστήσετε το ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_GK.txt"/>
+	</language>
+	<!-- NL -->
+	<language code="0x0413">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Met deze wizard kunt u de ThinkPad UltraNav Driver installeren.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_NL.txt"/>
+	</language>
+	<!-- NO -->
+	<language code="0x0414">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Denne veiviseren hjelper deg å installere ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_NO.txt"/>
+	</language>
+	<!-- PL -->
+	<language code="0x0415">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Ten kreator ułatwia instalację sterownika ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_PL.txt"/>
+	</language>
+	<!-- RU -->
+	<language code="0x0419">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Этот мастер поможет установить ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_RU.txt"/>
+	</language>
+	<!-- SE -->
+	<language code="0x041D">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Du kan använda den här guiden för att installera ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_SE.txt"/>
+	</language>
+	<!-- TR -->
+	<language code="0x041F">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Bu sihirbaz, ThinkPad UltraNav Driver'ı yüklemenize yardımcı olur.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_TR.txt"/>
+	</language>
+	<!-- PO -->
+	<language code="0x0816">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Este assistente o ajuda a instalar ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_PO.txt"/>
+	</language>
+	<!-- BP -->
+	<language code="0x0416">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Este assistente o ajudar a instalar o ThinkPad UltraNav Driver. </welcomeIntro>
+		<eula type="txt" path="Eula/Eula_BP.txt"/>
+	</language>
+	<!-- TH -->
+	<language code="0x041E">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>ตัวช่วยนี้จะช่วยท่านในการติดตั้ง ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_TH.txt"/>
+	</language>
+	<!-- AR -->
+	<language code="0x0401">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>سيساعدك هذا المعالج في تثبيت ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_AR.txt"/>
+	</language>
+	<!-- HU -->
+	<language code="0x040E">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Ezzel a varázslóval telepítheti az ThinkPad UltraNav Driver illesztőprogramot.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_HU.txt"/>
+	</language>
+	<!-- IL -->
+	<language code="0x040D">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>אשף זה יסייע לך להתקין את ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_IL.txt"/>
+	</language>
+	<!--  SK   -->
+	<language code="0x041B">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Sprievodca poskytne návod na inštaláciu ovládača ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_SK.txt"/>
+	</language>
+	<!--  SL   -->
+	<language code="0x0424">
+		<dpinstTitle>ThinkPad UltraNav Driver Installer</dpinstTitle>
+		<welcomeIntro>Ta čarovnik vam pomaga namestiti gonilnik ThinkPad UltraNav Driver.</welcomeIntro>
+		<eula type="txt" path="Eula/Eula_SL.txt"/>
+	</language>
+</dpInst>

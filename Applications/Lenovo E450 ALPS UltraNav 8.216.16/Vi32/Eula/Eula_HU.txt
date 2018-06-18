@@ -1,0 +1,40 @@
+﻿Szoftverlicenc-feltételek
+
+Ezek a szoftverlicenc-feltételek egy megállapodást ("Megállapodás") alkotnak Ön és az Alps Electric Co., Ltd. ("Vállalat") között.  Kérjük, olvassa el ezeket, mielőtt az illesztőprogramot ("Szoftver") a vállalat GlidePoint, DualPoint, StickPointer stb. mutatóeszközeivel ("Mutatóeszköz") használja.  Ha használja a szoftvert, azzal elfogadja a Megállapodásban foglalt feltételeket.  Ha nem fogadja el a feltételeket, nem használhatja a Szoftvert. 
+
+1. A Szoftver használata
+A Szoftvert egyetlen olyan személyi számítógépre telepítheti, amelyet a Vállalat Mutatóeszközével használ.
+
+2. A jogok tulajdonosa
+A Vállalat a Szoftverre vonatkozó minden jogot fenntart, beleértve a szellemi tulajdonjogokat is.
+
+3. Másolás
+Tilos a Szoftver egészének vagy bármely részének másolása.  Ez alól kivétel a Szoftver biztonsági célból készített egyetlen másolata.
+
+4. Módosítás és változtatás
+A Szoftvert és annak bármely részét tilos módosítani, megváltoztatni, ellentétes irányú tervezésnek alávetni, visszafejteni vagy dekódolni.  Tilos ugyanezeket másik féllel elvégeztetni. 
+
+5. Mások általi használat
+Tilos a Szoftver egészét vagy bármely részét átruházni, bérbe adni, kölcsönözni vagy bármely más módon másik félnek átadni.
+
+6. A jótállás elhárítása
+A Vállalat nem tehető felelőssé semmilyen, a Szoftver használatából eredő kárért (beleértve a közvetlen, közvetett, következményes és különleges károkat, de nem kizárólag ezeket).  A kétségek elkerülése érdekében a Vállalat nem tehető felelőssé a Szoftverrel kapcsolatos vitákért, bármely külső fél szellemi tulajdonjogára vonatkozóan. 
+A Szoftvert mindenki saját felelősségére használhatja, és ha a Szoftver használatából eredően károsodik a számítógépes rendszer vagy adatok vesznek el, azért a felhasználó felelős.
+
+7. DPInst
+A Microsoft Corporation ("Microsoft") által biztosított illesztőprogram-csomag telepítőt ("DPInst") csak akkor használhatja ingyenesen, ha elfogadja az alábbi feltételeket:
+(a) A DPInst telepítőt kizárólag a Szoftver telepítésére használhatja.
+(b) A DPInst telepítőt és annak bármely részét tilos módosítani, megváltoztatni, ellentétes irányú tervezésnek alávetni, visszafejteni vagy dekódolni.
+(c) Tilos a DPInst telepítő egészét vagy bármely részét bérbe adni, kölcsönözni vagy bármely más módon másik félnek átadni. 
+(d) A DPInst telepítőről tilos másolatot készíteni.  (Ez alól kivétel a DPInst kizárólag biztonsági célból készített egyetlen másolata.)
+(e) A Microsoft a DPInst telepítőre vonatkozó minden jogot magának tart fenn. 
+(f) Tilos a Microsoft védjegyet a saját programok nevében, vagy olyan módon felhasználni, amely azt a látszatot kelti, hogy a programok a Microsofttól származnak, vagy a Microsoft jóváhagyta őket.
+(g) A Microsoft semmiféle támogatást nem nyújt a DPInst telepítőhöz.
+(h) A DPInst programot "önmagában" licenceli a Microsoft, és a Microsoft nem tehető felelőssé semmilyen a DPInst telepítő használatából eredő kárért.  A kétségek elkerülése érdekében a Microsoft nem tehető felelőssé a Szoftverrel kapcsolatos, bármely külső fél szellemi tulajdonjogára vonatkozó vitákért. 
+(i) A DPInst telepítőre vonatkozó hazai és nemzetközi kiviteli törvényeket és jogszabályokat be kell tartani.
+(j) A Microsoft legfeljebb 5,00 USD értékű kárt térít meg.
+
+8. Egyebek
+(1) A Vállalat a jövőben értesítés nélkül módosíthatja a Szoftver jellemzőit és felhasználói útmutatóit. 
+(2) A Szerződést szabályozó jogszabályok a Japánban érvényes jogszabályok.  Bármilyen vita, ellentmondás vagy véleményeltérés esetén, amely a Szerződésből vagy azzal kapcsolatban felmerül, a Tokiói Kerületi Bíróság az illetékes bíróság.
+(3) Nincs semmilyen írásos vagy szóbeli megállapodás, előnyomtatott vagy más módon tudomásra hozott alapvető feltétel, jótállás, tényállás vagy hallgatólagos megegyezés, amely érintené a Megállapodást, és ez a Megállapodás hatályon kívül helyez a felek közötti minden korábbi írásos és szóbeli megegyezést és megállapodást. 

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?pcdDescriptor version="0230"?>
+<Package name="FMA_LS4C" id="ls4c78a2" version="4.5.289.0" hide="False">
+  <Title default="EN">
+    <Desc id="EN">Lenovo Fingerprint Manager - 7/8 [32,64]</Desc>
+  </Title>
+  <DetectVersion type="Registry">
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{B594D07F-61BA-40B2-BF6E-8C72635AB1B8}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{709AB4C0-9DFF-4293-954F-FBCC7FC005DA}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{DB8BB952-975D-484C-8BAF-8C8A7D6D2201}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F7AB2C19-6A27-4C75-A92A-8CC7C59E5FA2}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FA032066-AAE0-484C-ABC7-CB89EA14480E}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{26821A01-AE55-4B1A-807A-6EF888C4ACC2}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D81EB3EC-F470-4214-AD81-D138DE3DB3B8}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BD0897C-DE1A-4946-9138-3C8A05DA5061}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FE85A939-F8A1-4719-A125-BC68FF1F7F24}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+    <Registry>
+      <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9BD443AA-F7D9-4688-8A8B-C33006C4CC59}</Key>
+      <ValueName>DisplayVersion</ValueName>
+    </Registry>
+  </DetectVersion>
+  <Summary default="EN" />
+  <Severity type="1" />
+  <SeverityOverride type="2">
+    <Not>
+      <_RegistryKey>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{B594D07F-61BA-40B2-BF6E-8C72635AB1B8}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{709AB4C0-9DFF-4293-954F-FBCC7FC005DA}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{DB8BB952-975D-484C-8BAF-8C8A7D6D2201}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F7AB2C19-6A27-4C75-A92A-8CC7C59E5FA2}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FA032066-AAE0-484C-ABC7-CB89EA14480E}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{26821A01-AE55-4B1A-807A-6EF888C4ACC2}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D81EB3EC-F470-4214-AD81-D138DE3DB3B8}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7BD0897C-DE1A-4946-9138-3C8A05DA5061}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FE85A939-F8A1-4719-A125-BC68FF1F7F24}</Key>
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9BD443AA-F7D9-4688-8A8B-C33006C4CC59}</Key>
+      </_RegistryKey>
+    </Not>
+  </SeverityOverride>
+  <Vendor>Lenovo</Vendor>
+  <ExtractCommand>ls4c78a2.exe /VERYSILENT /DIR=%PACKAGEPATH% /EXTRACT="YES"</ExtractCommand>
+  <ReleaseDate>2014-08-06</ReleaseDate>
+  <DiskSpaceNeeded>44000000</DiskSpaceNeeded>
+  <Reboot type="3" />
+  <Install rc="0,3010" type="cmd" default="EN">
+    <Cmdline id="EN">%PACKAGEPATH%\WBF_Synaptics_FMA_CMN_Setup_L.exe /s</Cmdline>
+  </Install>
+  <ManualInstall type="cmd" default="EN">
+    <Cmdline id="EN">%PACKAGEPATH%\WBF_Synaptics_FMA_CMN_Setup_L.exe</Cmdline>
+  </ManualInstall>
+  <Uninstall />
+  <DetectInstall>
+    <Or>
+      <_RegistryKeyValue type="REG_SZ">
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{DB8BB952-975D-484C-8BAF-8C8A7D6D2201}</Key>
+        <KeyName>DisplayVersion</KeyName>
+        <Version>4.5.289.0^</Version>
+      </_RegistryKeyValue>
+      <_RegistryKeyValue type="REG_SZ">
+        <Key>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F7AB2C19-6A27-4C75-A92A-8CC7C59E5FA2}</Key>
+        <KeyName>DisplayVersion</KeyName>
+        <Version>4.5.289.0^</Version>
+      </_RegistryKeyValue>
+    </Or>
+  </DetectInstall>
+  <Dependencies>
+    <And>
+      <_OS>
+        <OS>WIN7-ENT.*</OS>
+        <OS>WIN7-HOMEBASIC.*</OS>
+        <OS>WIN7-HOMEPREM.*</OS>
+        <OS>WIN7-PRO.*</OS>
+        <OS>WIN7-STARTER.*</OS>
+        <OS>WIN7-ULT.*</OS>
+        <OS>WIN8.*</OS>
+        <OS>WIN8-ENT.*</OS>
+        <OS>WIN8-PRO.*</OS>
+      </_OS>
+      <Or>
+        <_PnPID><![CDATA[USB\VID_138A&PID_0011]]></_PnPID>
+        <_PnPID><![CDATA[USB\VID_138A&PID_0015]]></_PnPID>
+        <_PnPID><![CDATA[USB\VID_138A&PID_0017]]></_PnPID>
+      </Or>
+    </And>
+  </Dependencies>
+  <Files>
+    <Installer>
+      <File>
+        <Name>ls4c77a2.exe</Name>
+        <CRC>177256641E12169B1FDDF060C07944C397E2E705</CRC>
+        <Size>18429568</Size>
+      </File>
+    </Installer>
+    <Readme default="EN">
+      <File id="EN">
+        <Name>ls4c77a2.txt</Name>
+        <CRC>0ED5B1D7C90F573300982B35E459C22611846C21</CRC>
+        <Size>6901</Size>
+      </File>
+    </Readme>
+  </Files>
+</Package>

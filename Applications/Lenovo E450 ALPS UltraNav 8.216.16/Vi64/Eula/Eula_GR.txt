@@ -1,0 +1,40 @@
+﻿Softwarelizenzvertrag
+
+Dieser Softwarelizenzvertrag ist ein Vertrag ("Vertrag") zwischen Ihnen und Alps Electric Co., Ltd. ("Hersteller").  Lesen Sie ihn durch, bevor Sie Treiber ("Software") für GlidePoint, DualPoint, StickPointer usw. ("Zeigegerät") des Herstellers verwenden.  Durch die Verwendung der Software stimmen Sie den Bedingungen dieses Vertrags zu.  Wenn Sie nicht mit den Bedingungen einverstanden sind, dürfen Sie die Software nicht nutzen. 
+
+1. Verwendung der Software
+Sie dürfen die Software auf einem PC installieren und einsetzen, an dem ein Zeigergerät des Herstellers genutzt wird.
+
+2. Eigentumsrechte
+Der Hersteller behält sich alle Rechte an der Software, einschließlich Rechte am geistigen Eigentum, vor.
+
+3. Kopien
+Sie dürfen weder die vollständige Software noch Teile davon kopieren.  Sie dürfen allerdings eine Kopie von der Software zu Sicherungszwecken machen.
+
+4. Änderungen an der Software
+Sie dürfen die Software oder Teile davon nicht modifizieren, ändern, zurückentwickeln, dekompilieren oder disassemblieren.  Auch Dritte dürfen keine solchen Veränderungen vornehmen. 
+
+5. Verwendung durch Dritte
+Sie dürfen die Software oder Teile davon nicht an Dritte übertragen, vermieten, verpachten oder ihnen bereitstellen.
+
+6. Garantieausschluss
+Der Hersteller haftet nicht für Schäden (insbesondere direkte oder indirekte Schäden, Folgeschäden oder besondere Schäden), die sich aus der Nutzung der Software ergeben.  Der Hersteller haftet in keinem Fall für Streitigkeiten mit Dritten in Bezug auf geistiges Eigentum an der Software. 
+Sie verwenden die Software auf eigene Verantwortung und sind für alle Schäden an Ihrem Computersystem und Datenverluste verantwortlich, die durch die Nutzung der Software entstehen.
+
+7. DPInst
+Sie dürfen das Installationsprogramm für das Softwaretreiberpaket ("DPInst") von der Microsoft Corporation ("Microsoft") kostenlos nutzen, wenn Sie folgenden Bedingungen zustimmen:
+(a) Sie dürfen DPInst nur zur Installation der Software nutzen.
+(b) Sie dürfen DPInst oder Teile davon nicht modifizieren, ändern, zurückentwickeln, dekompilieren oder disassemblieren.
+(c) Sie dürfen DPInst oder Teile davon nicht an Dritte vermieten, verpachten oder ihnen bereitstellen. 
+(d) Sie dürfen DPInst nicht kopieren.  (Sie dürfen jedoch eine Kopie von DPInst für Sicherungszwecke erstellen.)
+(e) Microsoft behält sich alle Rechte an DPInst vor. 
+(f) Sie dürfen die Marken von Microsoft nicht in dem Namen Ihrer Programme oder auf eine Weise verwenden, dass der Eindruck entsteht, Ihre Programme stammen von Microsoft oder werden von Microsoft empfohlen.
+(g) Microsoft stellt keinen Support für DPInst bereit.
+(h) DPInst wird ohne Mängelgewähr zur Verfügung gestellt, und Microsoft haftet für keine Schäden, die Ihnen aus der Nutzung von DPInst entstehen.  Microsoft haftet in keinem Fall für Streitigkeiten mit Dritten in Bezug auf geistiges Eigentum an DPInst. 
+(i) Sie müssen alle nationalen und internationalen Exportgesetze und -bestimmungen beachten, die auf DPInst zutreffen.
+(j) Sie erhalten bis zu US$5,00 Schadenersatz von Microsoft.
+
+8. Verschiedenes
+(1) Der Hersteller kann die technischen Daten und Handbücher für die Software ohne Vorankündigung ändern. 
+(2) Dieser Vertrag unterliegt japanischem Recht.  Alle Streitigkeiten, Kontroversen oder Meinungsverschiedenheiten, die sich aus oder im Zusammenhang mit diesem Vertrag ergeben, sind vom Bezirksgericht Tokio zu entscheiden.
+(3) Es bestehen keine anderen schriftlichen oder mündlichen Vereinbarungen, vorgedruckte oder anderweitig vereinbarte Bedingungen, Garantien, Erklärungen oder Übereinkommen, die sich auf diesen Vertrag auswirken, und dieser Vertrag löst alle vorigen schriftlichen und mündlichen Übereinkommen und Vereinbarungen zwischen den Parteien ab. 

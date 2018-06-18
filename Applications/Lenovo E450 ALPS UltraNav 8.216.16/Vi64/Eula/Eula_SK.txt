@@ -1,0 +1,40 @@
+﻿Podmienky licenčnej zmluvy na softvér
+
+Tieto licenčné podmienky sú zmluvou (ďalej len „zmluva“) medzi používateľom a spoločnosťou Alps Electric Co., Ltd. (ďalej len „spoločnosť“).  Prečítajte si ich predtým, než použijete ovládače (ďalej len „softvér“) pre zariadenia GlidePoint, DualPoint, StickPointer a pod. (ďalej len „ukazovacie zariadenie“) spoločnosti.  Používaním softvéru vyjadrujete súhlas s podmienkami tejto zmluvy. Ak s podmienkami nesúhlasíte, softvér nepoužívajte. 
+
+1. Používanie softvéru
+Softvér sa môže nainštalovať a používať na jednom osobnom počítači, ktorý obsahuje ukazovacie zariadenie spoločnosti.  
+
+2. Vlastníctvo práv
+Spoločnosť si vyhradzuje všetky práva na softvér vrátane práva na duševné vlastníctvo.
+
+3. Kopírovanie
+Softvér ani žiadna jeho časť sa nesmú kopírovať. Môže sa však vytvoriť jedna kópia softvéru na účely zálohovania.
+
+4. Úpravy a zmeny
+Softvér ani žiadna jeho časť sa nesmú upravovať, meniť, spätne zostavovať, dekompilovať ani rozkladať.  Nesmiete nikoho nútiť tieto činnosti vykonať.  
+
+5. Používanie inými používateľmi
+Softvér ani žiadna jeho časť sa nesmú prenášať, prenajímať, najímať alebo iným spôsobom poskytovať iným používateľom. 
+
+6. Odmietnutie záruky
+Spoločnosť nenesie zodpovednosť za žiadne škody (vrátane, ale nie výhradne, za priame, nepriame, následné alebo mimoriadne škody) spôsobené používaním softvéru. Spoločnosť bez akýchkoľvek pochybností nenesie zodpovednosť za žiadne spory týkajúce sa softvéru v súvislosti s právom na duševné vlastníctvo iných osôb. 
+Používateľ softvér používa na vlastnú zodpovednosť a nesie zodpovednosť za akúkoľvek škodu týkajúcu sa počítačového systému, ako aj za stratu údajov vyplývajúcu z používania softvéru. 
+
+7. Balík DPInst
+Inštalačný balík ovládačov (ďalej len „balík DPInst“) poskytovaný spoločnosťou Microsoft Corporation (ďalej len „Microsoft“) bez poplatkov sa môže používať len v prípade súhlasu s nasledujúcimi podmienkami:
+a) Balík DPInst sa môže použiť len na účely inštalácie softvéru.
+b) Balík DPInst ani žiadna jeho časť sa nesmú upravovať, meniť, spätne zostavovať, dekompilovať ani rozkladať.
+c) Balík DPInst ani žiadna jeho časť sa nesmú prenajímať, najímať alebo iným spôsobom poskytovať iným používateľom.  
+d) Balík DPInst sa nesmie kopírovať.  (Môže sa však vytvoriť jedna kópia balíka DPInst na účely zálohovania.)
+e) Spoločnosť Microsoft si vyhradzuje všetky práva na balík DPInst. 
+f) Ochranné známky spoločnosti Microsoft sa nesmú použiť v názvoch vlastných programov používateľa ani žiadnym spôsobom, ktorý by naznačoval, že vlastné programy používateľa pochádzajú od spoločnosti Microsoft, alebo ich spoločnosť Microsoft schválila. 
+g) Spoločnosť Microsoft nebude pre balík DPInst poskytovať žiadne služby technickej podpory.
+h) Licencia sa poskytuje pre balík DPInst „taký, aký je“. Spoločnosť Microsoft nebude niesť zodpovednosť za žiadne škody, ktoré vzniknú používaním balíka DPInst.  Spoločnosť Microsoft bez akýchkoľvek pochybností nenesie zodpovednosť za žiadne spory týkajúce sa balíka DPInst v súvislosti s právom na duševné vlastníctvo iných osôb. 
+i) Používateľ musí dodržiavať všetky príslušné národné a medzinárodné právne predpisy a nariadenia týkajúce sa exportu, ktoré sa vzťahujú na balík DPInst. 
+j) Od spoločnosti Microsoft sa môže požadovať náhrada škôd do výšky 5 USD.
+
+8. Rôzne
+(1) Technické parametre a príručky softvéru sa môžu zmeniť bez predchádzajúceho upozornenia.  
+(2) Rozhodujúcim právom tejto zmluvy je právny poriadok Japonska. Akékoľvek spory, konflikty alebo rozdielne názory, ktoré sa vyskytnú v súvislosti s touto zmluvou, budú vyriešené na okresnom súde v Tokiu.
+(3) Neexistujú žiadne písomné ani ústne zmluvy, predtlačené alebo iným spôsobom oznámené štandardné podmienky používania, záruky, zistenia či dohody, ktoré by ovplyvňovali túto zmluvu. Táto zmluva nahrádza všetky predchádzajúce písomné a ústne dohody a zmluvy uzatvorené medzi stranami. 

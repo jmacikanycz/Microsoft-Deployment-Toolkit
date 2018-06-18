@@ -1,0 +1,40 @@
+﻿Conditions de licence de logiciel
+
+Ces conditions de licence constituent un accord (« Accord ») passé entre vous et Alps Electric Co., Ltd. (« Entreprise »). Lisez ces conditions avant d’utiliser les pilotes (« Logiciel ») pour GlidePoint, DualPoint, StickPointer, etc. (« Dispositif de pointage ») de l’Entreprise. En utilisant le Logiciel, vous acceptez les conditions de cet Accord. Si vous ne les acceptez pas, vous ne devez pas utiliser le Logiciel. 
+
+1.Utilisation du Logiciel
+Vous pouvez installer et utiliser le Logiciel sur un ordinateur personnel doté du Dispositif de pointage de l’Entreprise.
+
+2.Propriété des droits
+L’Entreprise se réserve tous les droits sur le Logiciel, y compris les droits de propriété intellectuelle.
+
+3.Copie
+Vous ne pouvez pas copier tout ou partie du Logiciel. Cependant, vous pouvez effectuer une copie de sauvegarde du Logiciel.
+
+4.Modifications
+Vous ne pouvez pas modifier, décompiler ou désassembler tout ou partie du Logiciel, ni en reconstituer la logique. Vous ne pouvez pas demander à un tiers d’effectuer ces modifications. 
+
+5.Utilisation par un tiers
+Vous ne pouvez pas transférer, louer ou fournir de quelque façon qu’il soit tout ou partie du Logiciel à un tiers.
+
+6.Exclusion de garantie
+L’Entreprise ne saurait être tenue responsable des dommages (y compris mais sans limitation les dommages directs, indirects, accessoires ou spéciaux) résultant de l’utilisation du Logiciel. Pour éviter tout malentendu, l’Entreprise ne saurait être tenue responsable de désaccords liés au Logiciel et concernant les droits de propriété intellectuelle de tierce partie. 
+Votre utilisation du Logiciel relève de votre responsabilité, et vous serez tenu responsable de tout dommage causé à votre système informatique ou de toute perte de données résultant de l’utilisation du Logiciel.
+
+7.DPInst
+Vous pouvez utiliser le Programme d’installation de l’ensemble de pilotes (« DPInst ») fourni par Microsoft Corporation (« Microsoft ») gratuitement, uniquement si vous acceptez les conditions suivantes :
+(a) Vous pouvez utiliser DPInst uniquement pour l'installation du Logiciel.
+(b) Vous ne pouvez pas modifier, décompiler ou désassembler tout ou partie de DPInst, ni en reconstituer la logique.
+(c) Vous ne pouvez pas louer ou fournir de quelque façon qu’il soit tout ou partie de DPInst à un tiers. 
+(d) Vous ne pouvez pas copier DPInst. (Cependant, vous pouvez effectuer une copie de sauvegarde de DPInst.)
+(e) Microsoft se réserve tous les droits concernant DPInst. 
+(f) Vous ne pouvez pas utiliser les marques déposées de Microsoft dans vos noms de programmes, ou de telle façon que l’on puisse croire que vos programmes aient été fournis ou approuvés par Microsoft.
+(g) Microsoft ne fournit aucun service de support pour DPInst.
+(h) DPInst est fourni sous licence « en l’état », et Microsoft ne saurait être tenu responsable de tout dommage résultant de l’utilisation de DPInst. Pour éviter tout malentendu, Microsoft ne saurait être tenu responsable de désaccords liés à DPInst et concernant les droits de propriété intellectuelle de tierce partie. 
+(i) Vous devez respecter toutes les lois et réglementations nationales et internationales s’appliquant à DPInst.
+(j) Vous pouvez obtenir de Microsoft des compensations pour les dommages subis pour une somme maximale de 5,00 dollars américains.
+
+8.Divers
+(1) L’Entreprise peut apporter des modifications aux spécifications et aux manuels du Logiciel sans préavis. 
+(2) La loi applicable pour cet Accord est la loi en vigueur au Japon. Tout désaccord, tout litige ou toute différence d’opinions liés à cet Accord sera arbitré par le tribunal de Tokyo.
+(3) Il n’existe aucun accord écrit ou verbal, aucun terme ou aucune condition standard préimprimés ou notifiés sous une autre forme, aucune garantie, aucune représentation ou aucun arrangement affectant cet Accord, et cet Accord annule et remplace tout arrangement ou accord écrit ou verbal antérieur passé entre les parties. 

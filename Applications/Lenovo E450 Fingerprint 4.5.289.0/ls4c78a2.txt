@@ -1,0 +1,334 @@
+                                                                                                                   Revision : 01
+
+--------------------------------------------------------------------------------
+
+Software name      Lenovo Fingerprint Manager
+ 
+
+Supported models   products with Validity sensor
+
+E431/E531    
+S431
+S440
+S531 
+V4400u
+M4400s
+L440
+L540
+E440
+E540
+S540  
+M4400
+M4450
+V4400
+M5400
+B5400
+E4430
+E455
+E555
+K2450
+E450
+E550
+E450C
+E550C
+E450
+E550
+L450
+ 
+
+Operating Systems  Microsoft Windows 8 32bit&64bit, Microsoft Windows 7 32bit&64bit
+ 
+
+Version           4.5.289.0
+
+ 
+--------------------------------------------------------------------------------
+
+
+WHAT THIS PACKAGE DOES
+
+With the most progressive security technologies, Lenovo Fingerprint Manager helps make your digital world more secure, more convenient and more personal. Use your fingerprint to manage your identity. 
+Features include:
+- Reliable user authentication based on fingerprint recognition
+- Fingerprint Management
+
+--------------------------------------------------------------------------------
+CHANGES IN THIS RELEASE
+Version 4.5.289.0
+
+[Important updates]
+
+Fix for issue that Fingerprint Manager allows login of unenrolled finger sometimes.
+Fix for issue that Validity Finger print reader caused WUDFHOST.exe ‘s Service start fail(used 1.0s~6s)      
+
+---------------------------------------------------------------------------------
+
+DETERMINING WHICH VERSION OF PATCH TARGET IS INSTALLED
+
+1. Launch the Fingerprint Software. 
+2. After being authenticated, the splash screen will be displayed.
+3. The version number is showing in splash screen.
+
+
+ 
+
+--------------------------------------------------------------------------------
+
+INSTALLATION INSTRUCTIONS
+
+
+Device drivers for fingerprint are being installed 
+when installing fingerprint software. 
+
+The following installation options are provided for installing 
+fingerprint software:
+
+- Local installation through the set-up wizard
+- Silent installation
+
+
+After the installation process completes, you will be guided through the steps of enrolling 
+your fingerprint.
+
+ 
+Local installation through the set-up wizard 
+===========================================
+
+You can install Lenovo Fingerprint Manager through the set-up wizard.
+It is recommended to read the texts in set-up wizard during the installation process.
+
+To install Lenovo Fingerprint Manager, do the following:
+
+1. Navigate to the folder where you downloaded the executable.
+2. Double-click the .exe file. The set-up wizard is displayed.
+3. Follow the instructions on the screen to complete the installation process.  
+
+
+
+SILENT INSTALLATION
+===================
+
+Run the .exe file under the Install directory on your CD-ROM.
+
+
+For a 32 bit machine:  WBF_Synaptics_FMA_CMN_Setup_L.exe /s
+For a 64 bit machine:  WBF_Synaptics_FMA_CMN_Setup_L.exe /s
+
+ 
+
+ 
+
+--------------------------------------------------------------------------------
+
+UNINSTALLATION INSTRUCTIONS
+
+ 
+
+ 
+
+Manual Uninstall
+
+ 
+
+ 
+
+ Standard Uninstallation Procedure:
+
+ 
+
+  1. Start Windows and logon with an administrator account.
+
+  2. Open Control Panel.
+
+  3. Make sure "Control Panel Home" is selected, and click Uninstall a program.
+
+  4. Select Lenovo Fingerprint Manager, and click Uninstall or
+
+     Uninstall/Change.
+
+  5. Follow the instructions on the screen to complete uninstallation and
+
+     restart the computer.
+
+ 
+
+--------------------------------------------------------------------------------
+
+VERSION INFORMATION
+
+ 
+
+  The following versions have been released to date.
+
+ 
+
+  Version       Rev.  Issue Date
+
+  -------       ----  ---------------
+  4.5.122.0    01    2013-5-9
+  4.5.122.0    02    2013-5-16
+  4.5.122.0    03    2013-5-29
+  4.5.131.0    01    2013-8-8
+  4.5.131.0    02    2013-10-25
+  4.5.240.0    01    2013-11-25
+  4.5.240.0    02    2014-1-13
+  4.5.248.0    01    2014-2-26
+  4.5.258.0    01    2014-5-22
+  4.5.266.0    01    2014-8-6
+  4.5.266.0    02    2014-8-25
+  4.5.289.0    01    2015-4-1
+
+  Note: Revision number (Rev.) is for administrative purpose of this README
+
+        document and is not related to software version. There is no need to
+
+        upgrade this software when the revision number changes.
+
+ 
+
+  To check the version of software, refer to the Determining which version is
+
+  installed section.
+
+ 
+
+ 
+
+Summary of Changes
+
+ 
+
+  Where: <   >        Version number
+
+         [Important]  Important update
+
+         (New)        New function or enhancement
+
+         (Fix)        Correction to existing function
+
+
+
+<4.5.289.0>
+
+ -(Fix) Fix for issue that Fingerprint Manager allows login of unenrolled finger sometimes.
+ -(Fix) Fix for issue that Validity Finger print reader caused WUDFHOST.exe ‘s Service start fail(used 1.0s~6s)  
+
+
+<4.5.266.0>
+
+ -(Fix)   Fix for Fingerprint credential provider disappears at windows logon screen.
+ -(New)   Added high DPI resolution displays for LFM.
+
+
+<4.5.258.0>
+
+ -(Fix)   Fixed First enrollment LED issue from Driver side.
+ -(New)   Added new extension for LED ACTIVE mode on FMA User identification.
+ -(New)   Updated extension document and sample wbf with new LED changes.
+
+
+<4.5.248.0>
+
+ -[Important]  Fully support on accessibility.
+
+
+<4.5.240.0>
+
+ -[Important]  Update common driver to support Validity sensor PID0017, 0015 and 0011.  
+ -(New)        Add M4400, M4450, V4400, M5400, B5400 in supporting list.
+ -(Fix)        Fix the issue version upgrade failure from 4.5.122 to 4.5.240.
+
+<4.5.131.0>
+
+ -(New)  Implemented a workaround to reset the sensor if sensor initialization failed.
+ -(New)  Add S440, S531, V4400u, M4400s  into supporting list.
+
+<4.5.122.0>
+
+ -(Initial release)  A standalone version for windows 8 and windows 7.
+
+ 
+
+ 
+
+================================================================================
+
+REFERENCE INFORMATION
+
+ 
+
+  Nothing. 
+
+ 
+
+================================================================================
+
+ 
+
+ 
+
+--------------------------------------------------------------------------------
+
+LIMITATIONS
+
+ 
+
+  Nothing.
+
+ 
+
+ 
+
+--------------------------------------------------------------------------------
+
+TRADEMARKS
+
+ 
+
+The following terms are trademarks of Lenovo in the United States, other
+
+countries, or both:
+
+ 
+
+Lenovo
+
+ThinkCentre
+
+ThinkPad
+
+ThinkVantage
+
+
+
+ 
+
+Microsoft, Windows, and Windows NT are trademarks or registered trademarks
+
+of Microsoft Corporation in the United States, other countries, or both.
+
+ 
+
+Other company, product, and service names may be trademarks or service marks
+
+of others.
+
+ 
+
+THIS DOCUMENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.LENOVO DISCLAIMS
+
+ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED,INCLUDING WITHOUT LIMITATION, THE
+
+IMPLIED WARRANTIES OF FITNESSFOR A PARTICULAR PURPOSE AND MERCHANTABILITY WITH
+
+RESPECT TO THE INFORMATION IN THIS DOCUMENT. 
+
+ 
+
+BY FURNISHING THIS DOCUMENT, LENOVO GRANTS NO LICENSES TO ANY PATENTS OR
+
+COPYRIGHTS.
+
+ 
+
+(C) Copyright Lenovo 2015. All rights reserved.
